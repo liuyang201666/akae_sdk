@@ -1,0 +1,1 @@
+cmd_/home/akaedu/Board/drive/gpio_irq/teacher_gpio.ko := arm-linux-ld -EL -r   --build-id -o /home/akaedu/Board/drive/gpio_irq/teacher_gpio.ko /home/akaedu/Board/drive/gpio_irq/teacher_gpio.o /home/akaedu/Board/drive/gpio_irq/teacher_gpio.mod.o

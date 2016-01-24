@@ -1,0 +1,1 @@
+cmd_/home/akaedu/Board/drive/kegui/kegui.ko := arm-linux-ld -EL -r   --build-id -o /home/akaedu/Board/drive/kegui/kegui.ko /home/akaedu/Board/drive/kegui/kegui.o /home/akaedu/Board/drive/kegui/kegui.mod.o

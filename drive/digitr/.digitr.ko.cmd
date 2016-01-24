@@ -1,0 +1,1 @@
+cmd_/home/akaedu/Board/drive/digitr/digitr.ko := arm-linux-ld -EL -r   --build-id -o /home/akaedu/Board/drive/digitr/digitr.ko /home/akaedu/Board/drive/digitr/digitr.o /home/akaedu/Board/drive/digitr/digitr.mod.o

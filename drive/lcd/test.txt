@@ -1,0 +1,14 @@
+struct lcd_device;
+struct fb_info;
+	int max_contrast;
+	struct lcd_properties props;
+	   registered this device has been unloaded, and if class_get_devdata()
+	struct mutex ops_lock;
+	struct mutex update_lock;
+	struct notifier_block fb_notif;
+	struct device dev;
+	mutex_lock(&ld->update_lock);
+	if (ld->ops && ld->ops->set_power)
+		ld->ops->set_power(ld, power);
+	mutex_unlock(&ld->update_lock);
+	return dev_get_drvdata(&ld_dev->dev);

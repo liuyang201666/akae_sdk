@@ -1,0 +1,1 @@
+cmd_/home/lenovo/2440/drive/serial/serial.ko := arm-linux-ld -EL -r   --build-id -o /home/lenovo/2440/drive/serial/serial.ko /home/lenovo/2440/drive/serial/serial.o /home/lenovo/2440/drive/serial/serial.mod.o

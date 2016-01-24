@@ -1,0 +1,1 @@
+cmd_/home/akaedu/Board/drive/register_chrdev/register_dev_new.ko := arm-linux-ld -EL -r   --build-id -o /home/akaedu/Board/drive/register_chrdev/register_dev_new.ko /home/akaedu/Board/drive/register_chrdev/register_dev_new.o /home/akaedu/Board/drive/register_chrdev/register_dev_new.mod.o

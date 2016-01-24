@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+NOKEY	teacher_gpio.c	22;"	d	file:
+key	teacher_gpio.c	/^static char key = NOKEY;$/;"	v	file:
+key_irq_isr	teacher_gpio.c	/^static irqreturn_t key_irq_isr(int irq, void *dev_id)$/;"	f	file:
+key_scan	teacher_gpio.c	/^static char key_scan(void)$/;"	f	file:
+keyirq_MAJOR	teacher_gpio.c	20;"	d	file:
+keyirq_exit	teacher_gpio.c	/^module_exit(keyirq_exit);$/;"	v
+keyirq_exit	teacher_gpio.c	/^void __exit keyirq_exit(void)$/;"	f
+keyirq_fops	teacher_gpio.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_init	teacher_gpio.c	/^int __init keyirq_init(void)$/;"	f
+keyirq_init	teacher_gpio.c	/^module_init(keyirq_init);$/;"	v
+keyirq_ioctl	teacher_gpio.c	/^int keyirq_ioctl(struct inode *inode, struct file *file,$/;"	f
+keyirq_open	teacher_gpio.c	/^int keyirq_open(struct inode *inode, struct file *filp)$/;"	f
+keyirq_read	teacher_gpio.c	/^static ssize_t keyirq_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+keyirq_release	teacher_gpio.c	/^int keyirq_release(struct inode *inode, struct file *filp)$/;"	f
+sched_flag	teacher_gpio.c	/^int sched_flag = 0;$/;"	v
+sched_wq	teacher_gpio.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v

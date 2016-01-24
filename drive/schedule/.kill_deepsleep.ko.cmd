@@ -1,0 +1,1 @@
+cmd_/home/lenovo/2440/drive/schedule/kill_deepsleep.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.0.0-12-generic/scripts/module-common.lds --build-id  -o /home/lenovo/2440/drive/schedule/kill_deepsleep.ko /home/lenovo/2440/drive/schedule/kill_deepsleep.o /home/lenovo/2440/drive/schedule/kill_deepsleep.mod.o

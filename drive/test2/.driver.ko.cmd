@@ -1,0 +1,1 @@
+cmd_/home/lenovo/2440/drive/test2/driver.ko := arm-linux-ld -EL -r   --build-id -o /home/lenovo/2440/drive/test2/driver.ko /home/lenovo/2440/drive/test2/driver.o /home/lenovo/2440/drive/test2/driver.mod.o

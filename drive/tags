@@ -1,0 +1,1042 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AKAE_MAJOR	cdev_stu/register_dev_new.c	10;"	d	file:
+AKAE_MAJOR	register_chrdev/register_dev.c	8;"	d	file:
+AKAE_MAJOR	register_chrdev/register_dev_new.c	10;"	d	file:
+AKAE_MAJOR	schedule/kill_deepsleep.c	14;"	d	file:
+AKAE_MAJOR	schedule/sched.c	14;"	d	file:
+AKAE_MAJOR	serial/serial.c	17;"	d	file:
+AKAE_MAJOR	调度实验/kill_deepsleep.c	14;"	d	file:
+AKAE_MAJOR	调度实验/sched.c	14;"	d	file:
+BCM_TTY_DEBUG	huawei/bcm_gps_tty.c	51;"	d	file:
+BEEP	digitr/digitr.c	24;"	d	file:
+BLANK	vga/temp/vgacon.c	61;"	d	file:
+BUFFER_LEN	exp-22/base/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/base/app1.c	17;"	d	file:
+BUFFER_LEN	exp-22/block/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/block/app1.c	17;"	d	file:
+BUFFER_LEN	exp-22/block/appr_nonblock.c	18;"	d	file:
+BUFFER_LEN	exp-22/irq/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/irq/app1.c	17;"	d	file:
+BUFFER_LEN	exp-22/mutex/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/mutex/app1.c	17;"	d	file:
+BUFFER_LEN	exp-22/nonblock/app.c	9;"	d	file:
+BUFFER_LEN	exp-22/nonblock/app_another.c	9;"	d	file:
+BUFFER_LEN	exp-22/nonblock/appr.c	17;"	d	file:
+BUFFER_LEN	exp-22/nonblock/appw.c	17;"	d	file:
+BUFFER_LEN	exp-22/semaphore/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/semaphore/app1.c	17;"	d	file:
+BUFFER_LEN	exp-22/spinlock/app.c	17;"	d	file:
+BUFFER_LEN	exp-22/spinlock/app1.c	17;"	d	file:
+CAN_LOAD_EGA_FONTS	vga/temp/vgacon.c	63;"	d	file:
+CAN_LOAD_PALETTE	vga/temp/vgacon.c	64;"	d	file:
+CPLD_SEG7	digitr/digitr.c	22;"	d	file:
+ClockingMode	vga/temp/vga16fb.c	/^		unsigned char	ClockingMode;	  \/* Seq-Controller:01h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+ClockingMode	vga/temp/vgacon.c	/^	unsigned char ClockingMode;	\/* Seq-Controller:01h *\/$/;"	m	struct:__anon2	file:
+CrtCtrlIndex	vga/temp/vga16fb.c	/^		unsigned char	CrtCtrlIndex;	  \/* CRT-Contr. Index reg.  *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+CrtCtrlIndex	vga/temp/vgacon.c	/^	unsigned char CrtCtrlIndex;	\/* CRT-Contr. Index reg.  *\/$/;"	m	struct:__anon2	file:
+CrtMiscIO	vga/temp/vga16fb.c	/^		unsigned char	CrtMiscIO;	  \/* Miscellaneous register *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+CrtMiscIO	vga/temp/vgacon.c	/^	unsigned char CrtMiscIO;	\/* Miscellaneous register *\/$/;"	m	struct:__anon2	file:
+DUMMY	vga/temp/vgacon.c	1386;"	d	file:
+EndHorizRetrace	vga/temp/vga16fb.c	/^		unsigned char	EndHorizRetrace;  \/* CRT-Controller:05h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+EndHorizRetrace	vga/temp/vgacon.c	/^	unsigned char EndHorizRetrace;	\/* CRT-Controller:05h *\/$/;"	m	struct:__anon2	file:
+EndVertRetrace	vga/temp/vga16fb.c	/^		unsigned char	EndVertRetrace;	  \/* CRT-Controller:11h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+EndVertRetrace	vga/temp/vgacon.c	/^	unsigned char EndVertRetrace;	\/* CRT-Controller:11h *\/$/;"	m	struct:__anon2	file:
+FAIL	vga/temp/vga16fb.c	283;"	d	file:
+FAIL	vga/temp/vga16fb.c	523;"	d	file:
+FAIL	vga/vga16fb.c	201;"	d	file:
+FIFO_CLEAR	exp-22/base/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/base/app1.c	16;"	d	file:
+FIFO_CLEAR	exp-22/block/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/block/app1.c	16;"	d	file:
+FIFO_CLEAR	exp-22/block/appr_nonblock.c	17;"	d	file:
+FIFO_CLEAR	exp-22/block/block.c	15;"	d	file:
+FIFO_CLEAR	exp-22/irq/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/irq/app1.c	16;"	d	file:
+FIFO_CLEAR	exp-22/mutex/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/mutex/app1.c	16;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/app.c	8;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/app_another.c	8;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/appr.c	16;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/appw.c	16;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/block.c	15;"	d	file:
+FIFO_CLEAR	exp-22/nonblock/block_another.c	15;"	d	file:
+FIFO_CLEAR	exp-22/semaphore/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/semaphore/app1.c	16;"	d	file:
+FIFO_CLEAR	exp-22/spinlock/app.c	16;"	d	file:
+FIFO_CLEAR	exp-22/spinlock/app1.c	16;"	d	file:
+GET_A	cdev_stu/register_dev_new.c	19;"	d	file:
+GET_A	register_chrdev/app.c	12;"	d	file:
+GET_A	register_chrdev/register_dev.c	27;"	d	file:
+GET_A	register_chrdev/register_dev_new.c	19;"	d	file:
+GLOBALFIFO_MAJOR	exp-22/block/block.c	16;"	d	file:
+GLOBALFIFO_MAJOR	exp-22/nonblock/block.c	16;"	d	file:
+GLOBALFIFO_MAJOR	exp-22/nonblock/block_another.c	16;"	d	file:
+GLOBALFIFO_SIZE	exp-22/block/block.c	14;"	d	file:
+GLOBALFIFO_SIZE	exp-22/nonblock/block.c	14;"	d	file:
+GLOBALFIFO_SIZE	exp-22/nonblock/block_another.c	14;"	d	file:
+GLOBALMEM_MAJOR	exp-22/base/base.c	21;"	d	file:
+GLOBALMEM_MAJOR	exp-22/irq/base.c	21;"	d	file:
+GLOBALMEM_MAJOR	exp-22/mutex/base.c	21;"	d	file:
+GLOBALMEM_MAJOR	exp-22/semaphore/base.c	21;"	d	file:
+GLOBALMEM_MAJOR	exp-22/spinlock/base.c	21;"	d	file:
+GLOBALMEM_SIZE	exp-22/base/base.c	19;"	d	file:
+GLOBALMEM_SIZE	exp-22/irq/base.c	19;"	d	file:
+GLOBALMEM_SIZE	exp-22/mutex/base.c	19;"	d	file:
+GLOBALMEM_SIZE	exp-22/semaphore/base.c	19;"	d	file:
+GLOBALMEM_SIZE	exp-22/spinlock/base.c	19;"	d	file:
+HorizDisplayEnd	vga/temp/vga16fb.c	/^		unsigned char	HorizDisplayEnd;  \/* CRT-Controller:01h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+HorizDisplayEnd	vga/temp/vgacon.c	/^	unsigned char HorizDisplayEnd;	\/* CRT-Controller:01h *\/$/;"	m	struct:__anon2	file:
+HorizontalTotal	vga/temp/vga16fb.c	/^		unsigned char	HorizontalTotal;  \/* CRT-Controller:00h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+HorizontalTotal	vga/temp/vgacon.c	/^	unsigned char HorizontalTotal;	\/* CRT-Controller:00h *\/$/;"	m	struct:__anon2	file:
+IOADDRESS	vga/vgatypes.h	/^typedef unsigned long IOADDRESS;$/;"	t
+KDIR	exp-22/base/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/block/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/irq/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/mutex/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/nonblock/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/semaphore/Makefile	/^KDIR := ..\/linux$/;"	m
+KDIR	exp-22/spinlock/Makefile	/^KDIR := ..\/linux$/;"	m
+KERNELSRC	cdev_stu/Makefile	/^KERNELSRC :=\/home\/lenovo\/crosstool\/linux-2.6.27$/;"	m
+KERNELSRC	digitr/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	drive_2/Makefile	/^KERNELSRC :=\/usr\/src\/linux-headers-3.2.0-23-generic$/;"	m
+KERNELSRC	gpio_irq/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	huawei/Makefile	/^KERNELSRC :=\/home\/lenovo\/linux-kernel\/linux-3.10.90$/;"	m
+KERNELSRC	kegui/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	lcd/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	led/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	register_chrdev/Makefile	/^KERNELSRC :=\/home\/lenovo\/linux-kernel\/linux-3.10.90$/;"	m
+KERNELSRC	schedule/Makefile	/^KERNELSRC :=\/usr\/src\/linux-headers-3.0.0-12-generic$/;"	m
+KERNELSRC	sdCard/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	serial/Makefile	/^KERNELSRC :=\/home\/lenovo\/2440\/linux-2.6.27$/;"	m
+KERNELSRC	test2/Makefile	/^KERNELSRC :=\/home\/lenovo\/2440\/linux-2.6.27 $/;"	m
+KERNELSRC	urt/Makefile	/^KERNELSRC :=\/home\/lenovo\/2440\/linux-2.6.27$/;"	m
+KERNELSRC	vga/Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+KERNELSRC	调度实验/Makefile	/^KERNELSRC :=\/usr\/src\/linux-headers-3.0.0-12-generic$/;"	m
+LEDMAJOR	led/led.c	7;"	d	file:
+LED_SEG	led/led.c	8;"	d	file:
+MAX_SIS_CHIP	vga/vgatypes.h	/^    MAX_SIS_CHIP$/;"	e	enum:_SIS_CHIP_TYPE
+MEM_CLEAR	exp-22/base/base.c	20;"	d	file:
+MEM_CLEAR	exp-22/irq/base.c	20;"	d	file:
+MEM_CLEAR	exp-22/mutex/base.c	20;"	d	file:
+MEM_CLEAR	exp-22/semaphore/base.c	20;"	d	file:
+MEM_CLEAR	exp-22/spinlock/base.c	20;"	d	file:
+MODE_8BPP	vga/temp/vga16fb.c	33;"	d	file:
+MODE_8BPP	vga/vga16fb.c	33;"	d	file:
+MODE_CFB	vga/temp/vga16fb.c	34;"	d	file:
+MODE_CFB	vga/vga16fb.c	34;"	d	file:
+MODE_SKIP4	vga/temp/vga16fb.c	32;"	d	file:
+MODE_SKIP4	vga/vga16fb.c	32;"	d	file:
+MODE_TEXT	vga/temp/vga16fb.c	35;"	d	file:
+MODE_TEXT	vga/vga16fb.c	35;"	d	file:
+MS_TO_NS	huawei/bcm_gps_tty.c	47;"	d	file:
+ModeControl	vga/temp/vga16fb.c	/^		unsigned char	ModeControl;	  \/* CRT-Controller:17h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+ModeControl	vga/temp/vgacon.c	/^	unsigned char ModeControl;	\/* CRT-Controller:17h *\/$/;"	m	struct:__anon2	file:
+NOKEY	digitr/app.c	6;"	d	file:
+NOKEY	digitr/digitr.c	25;"	d	file:
+NOKEY	digitr/led_write.c	6;"	d	file:
+NOKEY	gpio_irq/app.c	6;"	d	file:
+NOKEY	gpio_irq/teacher_gpio.c	22;"	d	file:
+NOKEY	schedule/app.c	6;"	d	file:
+NOKEY	sdCard/sdCard.c	21;"	d	file:
+NOKEY	urt/app.c	6;"	d	file:
+NOKEY	urt/urt.c	22;"	d	file:
+NOKEY	调度实验/app.c	6;"	d	file:
+Overflow	vga/temp/vga16fb.c	/^		unsigned char	Overflow;	  \/* CRT-Controller:07h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+Overflow	vga/temp/vgacon.c	/^	unsigned char Overflow;	\/* CRT-Controller:07h *\/$/;"	m	struct:__anon2	file:
+PORT_NAME	huawei/bcm_gps_tty.c	45;"	d	file:
+P_UBRDIV1	drive_2/driver.c	8;"	d	file:
+P_UBRDIV1	test2/driver.c	8;"	d	file:
+P_UCON1	drive_2/driver.c	6;"	d	file:
+P_UCON1	test2/driver.c	6;"	d	file:
+P_UFCON1	drive_2/driver.c	12;"	d	file:
+P_UFCON1	test2/driver.c	12;"	d	file:
+P_ULCON1	drive_2/driver.c	7;"	d	file:
+P_ULCON1	test2/driver.c	7;"	d	file:
+P_URXH1	drive_2/driver.c	10;"	d	file:
+P_URXH1	test2/driver.c	10;"	d	file:
+P_UTRSTAT1	drive_2/driver.c	11;"	d	file:
+P_UTRSTAT1	test2/driver.c	11;"	d	file:
+P_UTXH1	drive_2/driver.c	9;"	d	file:
+P_UTXH1	test2/driver.c	9;"	d	file:
+SDCLK	sdCard/sdCard.c	27;"	d	file:
+SDCMD	sdCard/sdCard.c	28;"	d	file:
+SDDATA0	sdCard/sdCard.c	23;"	d	file:
+SDDATA1	sdCard/sdCard.c	24;"	d	file:
+SDDATA2	sdCard/sdCard.c	25;"	d	file:
+SDDATA3	sdCard/sdCard.c	26;"	d	file:
+SET_A	cdev_stu/register_dev_new.c	18;"	d	file:
+SET_A	register_chrdev/app.c	11;"	d	file:
+SET_A	register_chrdev/register_dev.c	26;"	d	file:
+SET_A	register_chrdev/register_dev_new.c	18;"	d	file:
+SISIOADDRESS	vga/vgatypes.h	/^typedef IOADDRESS SISIOADDRESS;$/;"	t
+SISIOADDRESS	vga/vgatypes.h	/^typedef unsigned long SISIOADDRESS;$/;"	t
+SISIOMEMTYPE	vga/vgatypes.h	56;"	d
+SISIOMEMTYPE	vga/vgatypes.h	61;"	d
+SISIOMEMTYPE	vga/vgatypes.h	62;"	d
+SIS_300	vga/vgatypes.h	/^    SIS_300,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_315	vga/vgatypes.h	/^    SIS_315,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_315H	vga/vgatypes.h	/^    SIS_315H,   \/* SiS 310 *\/$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_315PRO	vga/vgatypes.h	/^    SIS_315PRO, \/* SiS 325 *\/$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_330	vga/vgatypes.h	/^    SIS_330,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_340	vga/vgatypes.h	/^    SIS_340 = 55,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_341	vga/vgatypes.h	/^    SIS_341,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_342	vga/vgatypes.h	/^    SIS_342,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_530	vga/vgatypes.h	/^    SIS_530,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_540	vga/vgatypes.h	/^    SIS_540,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_550	vga/vgatypes.h	/^    SIS_550,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_630	vga/vgatypes.h	/^    SIS_630,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_650	vga/vgatypes.h	/^    SIS_650,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_660	vga/vgatypes.h	/^    SIS_660 = 35,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_661	vga/vgatypes.h	/^    SIS_661,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_670	vga/vgatypes.h	/^    SIS_670,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_730	vga/vgatypes.h	/^    SIS_730,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_740	vga/vgatypes.h	/^    SIS_740,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_741	vga/vgatypes.h	/^    SIS_741,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_760	vga/vgatypes.h	/^    SIS_760,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_761	vga/vgatypes.h	/^    SIS_761,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_762	vga/vgatypes.h	/^    SIS_762,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_770	vga/vgatypes.h	/^    SIS_770,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_CHIP_TYPE	vga/vgatypes.h	/^} SIS_CHIP_TYPE;$/;"	t	typeref:enum:_SIS_CHIP_TYPE
+SIS_OLD	vga/vgatypes.h	/^    SIS_OLD,$/;"	e	enum:_SIS_CHIP_TYPE
+SIS_VGALegacy	vga/vgatypes.h	/^    SIS_VGALegacy = 0,$/;"	e	enum:_SIS_CHIP_TYPE
+SUBDIRS	register_chrdev/Makefile	/^	make -C $(KERNELSRC) SUBDIRS=$(PWD) $@$/;"	m
+SeqCtrlIndex	vga/temp/vga16fb.c	/^		unsigned char	SeqCtrlIndex;	  \/* Sequencer Index reg.   *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+SeqCtrlIndex	vga/temp/vgacon.c	/^	unsigned char SeqCtrlIndex;	\/* Sequencer Index reg.   *\/$/;"	m	struct:__anon2	file:
+StartHorizRetrace	vga/temp/vga16fb.c	/^		unsigned char	StartHorizRetrace;\/* CRT-Controller:04h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+StartHorizRetrace	vga/temp/vgacon.c	/^	unsigned char StartHorizRetrace;	\/* CRT-Controller:04h *\/$/;"	m	struct:__anon2	file:
+StartVertRetrace	vga/temp/vga16fb.c	/^		unsigned char	StartVertRetrace; \/* CRT-Controller:10h *\/$/;"	m	struct:vga16fb_par::__anon1	file:
+StartVertRetrace	vga/temp/vgacon.c	/^	unsigned char StartVertRetrace;	\/* CRT-Controller:10h *\/$/;"	m	struct:__anon2	file:
+TRANS_MASK_HIGH	vga/temp/vga16fb.c	1112;"	d	file:
+TRANS_MASK_HIGH	vga/vga16fb.c	589;"	d	file:
+TRANS_MASK_LOW	vga/temp/vga16fb.c	1111;"	d	file:
+TRANS_MASK_LOW	vga/vga16fb.c	588;"	d	file:
+TRIDENT_GLITCH	vga/temp/vgacon.c	71;"	d	file:
+TXALARM_MONOTONIC	huawei/bcm_gps_tty.c	/^	TXALARM_MONOTONIC,$/;"	e	enum:txalarmtimer_type	file:
+TXALARM_NUMTYPE	huawei/bcm_gps_tty.c	/^	TXALARM_NUMTYPE,$/;"	e	enum:txalarmtimer_type	file:
+TXALARM_REALTIME	huawei/bcm_gps_tty.c	/^	TXALARM_REALTIME,$/;"	e	enum:txalarmtimer_type	file:
+UART_UBRDIV1	serial/serial.c	22;"	d	file:
+UART_UCON1	serial/serial.c	21;"	d	file:
+UART_UFCON1	serial/serial.c	19;"	d	file:
+UART_ULCON1	serial/serial.c	20;"	d	file:
+UART_URXH1	serial/serial.c	24;"	d	file:
+UART_UTRSTAT1	serial/serial.c	25;"	d	file:
+UART_UTXH1	serial/serial.c	23;"	d	file:
+USE_HRTIMER	huawei/bcm_gps_tty.c	49;"	d	file:
+USE_HRTIMER_RESTART	huawei/bcm_gps_tty.c	50;"	d	file:
+VGA_FB_PHYS	vga/temp/vga16fb.c	29;"	d	file:
+VGA_FB_PHYS	vga/vga16fb.c	29;"	d	file:
+VGA_FB_PHYS_LEN	vga/temp/vga16fb.c	30;"	d	file:
+VGA_FB_PHYS_LEN	vga/vga16fb.c	30;"	d	file:
+VGA_FONTWIDTH	vga/temp/vgacon.c	72;"	d	file:
+VM_SEG7	digitr/digitr.c	23;"	d	file:
+VM_UBRDIV1	serial/serial.c	/^volatile unsigned int *VM_UBRDIV1;$/;"	v
+VM_UCON1	serial/serial.c	/^volatile unsigned int *VM_UCON1;$/;"	v
+VM_UFCON1	serial/serial.c	/^volatile unsigned int *VM_UFCON1;$/;"	v
+VM_ULCON1	serial/serial.c	/^volatile unsigned int *VM_ULCON1;$/;"	v
+VM_URXH1	serial/serial.c	/^volatile unsigned char *VM_URXH1;$/;"	v
+VM_UTRSTAT1	serial/serial.c	/^volatile unsigned int *VM_UTRSTAT1;$/;"	v
+VM_UTXH1	serial/serial.c	/^volatile unsigned char *VM_UTXH1;$/;"	v
+V_UBRDIV1	drive_2/driver.c	/^volatile unsigned int* V_UBRDIV1;$/;"	v
+V_UBRDIV1	test2/driver.c	/^volatile unsigned int* V_UBRDIV1;$/;"	v
+V_UCON1	drive_2/driver.c	/^volatile unsigned int* V_UCON1;$/;"	v
+V_UCON1	test2/driver.c	/^volatile unsigned int* V_UCON1;$/;"	v
+V_UFCON1	drive_2/driver.c	/^volatile unsigned int* V_UFCON1;$/;"	v
+V_UFCON1	test2/driver.c	/^volatile unsigned int* V_UFCON1;$/;"	v
+V_ULCON1	drive_2/driver.c	/^volatile unsigned int* V_ULCON1;$/;"	v
+V_ULCON1	test2/driver.c	/^volatile unsigned int* V_ULCON1;$/;"	v
+V_URXH1	drive_2/driver.c	/^volatile unsigned int* V_URXH1;$/;"	v
+V_URXH1	test2/driver.c	/^volatile unsigned int* V_URXH1;$/;"	v
+V_UTRSTAT1	drive_2/driver.c	/^volatile unsigned int* V_UTRSTAT1;$/;"	v
+V_UTRSTAT1	test2/driver.c	/^volatile unsigned int* V_UTRSTAT1;$/;"	v
+V_UTXH1	drive_2/driver.c	/^volatile unsigned int* V_UTXH1;$/;"	v
+V_UTXH1	test2/driver.c	/^volatile unsigned int* V_UTXH1;$/;"	v
+XGI_20	vga/vgatypes.h	/^    XGI_20  = 75,$/;"	e	enum:_SIS_CHIP_TYPE
+XGI_40	vga/vgatypes.h	/^    XGI_40,$/;"	e	enum:_SIS_CHIP_TYPE
+_LINUX_LCD_H	lcd/lcd.h	9;"	d
+_SIS_CHIP_TYPE	vga/vgatypes.h	/^typedef enum _SIS_CHIP_TYPE {$/;"	g
+_VGATYPES_H_	vga/vgatypes.h	54;"	d
+__attribute_used__	exp-22/irq/base.mod.c	/^__attribute_used__$/;"	v	file:
+__attribute_used__	exp-22/irq/base.mod.c	/^__attribute_used__$/;"	v	typeref:struct:____versions	file:
+__attribute_used__	exp-22/mutex/base.mod.c	/^__attribute_used__$/;"	v	file:
+__attribute_used__	exp-22/mutex/base.mod.c	/^__attribute_used__$/;"	v	typeref:struct:____versions	file:
+__attribute_used__	exp-22/spinlock/base.mod.c	/^__attribute_used__$/;"	v	file:
+__attribute_used__	exp-22/spinlock/base.mod.c	/^__attribute_used__$/;"	v	typeref:struct:____versions	file:
+__initdata	lcd.c	/^static struct resource cobalt_lcd_resource __initdata = {$/;"	v	typeref:struct:cobalt_lcd_resource	file:
+__initdata	vga/temp/vga16fb.c	/^static struct fb_fix_screeninfo vga16fb_fix __initdata = {$/;"	v	typeref:struct:vga16fb_fix	file:
+__initdata	vga/temp/vga16fb.c	/^static struct fb_var_screeninfo vga16fb_defined __initdata = {$/;"	v	typeref:struct:vga16fb_defined	file:
+__initdata	vga/vga16fb.c	/^static struct fb_fix_screeninfo vga16fb_fix __initdata = {$/;"	v	typeref:struct:vga16fb_fix	file:
+__initdata	vga/vga16fb.c	/^static struct fb_var_screeninfo vga16fb_defined __initdata = {$/;"	v	typeref:struct:vga16fb_defined	file:
+__read_mostly	vga/temp/vgacon.c	/^static int		vga_can_do_color	__read_mostly;	\/* Do we support colors? *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static int		vga_init_done		__read_mostly;$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static int 		vga_scan_lines		__read_mostly;$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static u16		vga_video_port_reg	__read_mostly;	\/* Video register select port *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static u16		vga_video_port_val	__read_mostly;	\/* Video register value port *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned char	vga_hardscroll_enabled	__read_mostly;$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned char	vga_hardscroll_user_enable __read_mostly = 1;$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned char	vga_video_type		__read_mostly;	\/* Card type *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned int	vga_default_font_height __read_mostly;	\/* Height of default screen font *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned int	vga_vram_size		__read_mostly;	\/* Size of video memory *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned long	vga_vram_base		__read_mostly;	\/* Base of video memory *\/$/;"	v	file:
+__read_mostly	vga/temp/vgacon.c	/^static unsigned long	vga_vram_end		__read_mostly;	\/* End of video memory *\/$/;"	v	file:
+__this_module	cdev_stu/register_dev_new.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	digitr/digitr.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	drive_2/driver.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/base/base.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/block/block.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/irq/base.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/mutex/base.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/nonblock/block.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/nonblock/block_another.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/semaphore/base.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	exp-22/spinlock/base.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	gpio_irq/teacher_gpio.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	huawei/bcm_gps_tty.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	kegui/kegui.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	lcd/lcd.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	led/led.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	register_chrdev/register_dev.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	register_chrdev/register_dev_new.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	schedule/kill_deepsleep.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	schedule/sched.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	sdCard/sdCard.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	test2/driver.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	urt/urt.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__this_module	vga/vga16fb.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	cdev_stu/register_dev_new.mod.c	/^__used$/;"	v	file:
+__used	cdev_stu/register_dev_new.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	digitr/digitr.mod.c	/^__used$/;"	v	file:
+__used	digitr/digitr.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	drive_2/driver.mod.c	/^__used$/;"	v	file:
+__used	drive_2/driver.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	exp-22/base/base.mod.c	/^__used$/;"	v	file:
+__used	exp-22/base/base.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	exp-22/block/block.mod.c	/^__used$/;"	v	file:
+__used	exp-22/block/block.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	exp-22/nonblock/block.mod.c	/^__used$/;"	v	file:
+__used	exp-22/nonblock/block.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	exp-22/nonblock/block_another.mod.c	/^__used$/;"	v	file:
+__used	exp-22/nonblock/block_another.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	exp-22/semaphore/base.mod.c	/^__used$/;"	v	file:
+__used	exp-22/semaphore/base.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	gpio_irq/teacher_gpio.mod.c	/^__used$/;"	v	file:
+__used	gpio_irq/teacher_gpio.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	huawei/bcm_gps_tty.mod.c	/^__used$/;"	v	file:
+__used	kegui/kegui.mod.c	/^__used$/;"	v	file:
+__used	kegui/kegui.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	lcd/lcd.mod.c	/^__used$/;"	v	file:
+__used	lcd/lcd.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	led/led.mod.c	/^__used$/;"	v	file:
+__used	led/led.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	register_chrdev/register_dev.mod.c	/^__used$/;"	v	file:
+__used	register_chrdev/register_dev_new.mod.c	/^__used$/;"	v	file:
+__used	schedule/kill_deepsleep.mod.c	/^__used$/;"	v	file:
+__used	schedule/kill_deepsleep.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	schedule/sched.mod.c	/^__used$/;"	v	file:
+__used	schedule/sched.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	sdCard/sdCard.mod.c	/^__used$/;"	v	file:
+__used	sdCard/sdCard.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	test2/driver.mod.c	/^__used$/;"	v	file:
+__used	test2/driver.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	urt/urt.mod.c	/^__used$/;"	v	file:
+__used	urt/urt.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+__used	vga/vga16fb.mod.c	/^__used$/;"	v	file:
+__used	vga/vga16fb.mod.c	/^__used$/;"	v	typeref:struct:____versions	file:
+a	cdev_stu/register_dev_new.c	/^	char a;$/;"	m	struct:kinfo	file:
+a	register_chrdev/app.c	/^	char a;$/;"	m	struct:info	file:
+a	register_chrdev/register_dev.c	/^	char a;$/;"	m	struct:kinfo	file:
+a	register_chrdev/register_dev_new.c	/^	char a;$/;"	m	struct:kinfo	file:
+adv7175_exit	ch7005c.c	/^adv7175_exit (void)$/;"	f	file:
+adv7175_exit	ch7005c.c	/^module_exit(adv7175_exit);$/;"	v
+adv7175_init	ch7005c.c	/^module_init(adv7175_init);$/;"	v
+adv7175_init	ch7005c.c	/^static int __init adv7175_init (void)$/;"	f	file:
+akae_exit	cdev_stu/register_dev_new.c	/^akae_exit(void)$/;"	f
+akae_exit	cdev_stu/register_dev_new.c	/^module_exit(akae_exit);$/;"	v
+akae_exit	kegui/kegui.c	/^akae_exit(void)$/;"	f
+akae_exit	kegui/kegui.c	/^module_exit(akae_exit);$/;"	v
+akae_exit	register_chrdev/register_dev.c	/^akae_exit(void)$/;"	f
+akae_exit	register_chrdev/register_dev.c	/^module_exit(akae_exit);$/;"	v
+akae_exit	register_chrdev/register_dev_new.c	/^akae_exit(void)$/;"	f
+akae_exit	register_chrdev/register_dev_new.c	/^module_exit(akae_exit);$/;"	v
+akae_fops	cdev_stu/register_dev_new.c	/^struct file_operations akae_fops = {$/;"	v	typeref:struct:file_operations
+akae_fops	register_chrdev/register_dev.c	/^struct file_operations akae_fops = {$/;"	v	typeref:struct:file_operations
+akae_fops	register_chrdev/register_dev_new.c	/^struct file_operations akae_fops = {$/;"	v	typeref:struct:file_operations
+akae_init	cdev_stu/register_dev_new.c	/^akae_init(void)$/;"	f
+akae_init	cdev_stu/register_dev_new.c	/^module_init(akae_init);$/;"	v
+akae_init	kegui/kegui.c	/^akae_init(void)$/;"	f
+akae_init	kegui/kegui.c	/^module_init(akae_init);$/;"	v
+akae_init	register_chrdev/register_dev.c	/^akae_init(void)$/;"	f
+akae_init	register_chrdev/register_dev.c	/^module_init(akae_init);$/;"	v
+akae_init	register_chrdev/register_dev_new.c	/^akae_init(void)$/;"	f
+akae_init	register_chrdev/register_dev_new.c	/^module_init(akae_init);$/;"	v
+akae_ioctl	cdev_stu/register_dev_new.c	/^int akae_ioctl(struct inode *inode, struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+akae_ioctl	register_chrdev/register_dev.c	/^int akae_ioctl(struct inode *inode, struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+akae_ioctl	register_chrdev/register_dev_new.c	/^int akae_ioctl(struct inode *inode, struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+akae_open	cdev_stu/register_dev_new.c	/^int akae_open(struct inode *inode, struct file *filp)$/;"	f
+akae_open	register_chrdev/register_dev.c	/^int akae_open(struct inode *inode, struct file *filp)$/;"	f
+akae_open	register_chrdev/register_dev_new.c	/^int akae_open(struct inode *inode, struct file *filp)$/;"	f
+akae_read	cdev_stu/register_dev_new.c	/^ssize_t akae_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+akae_read	register_chrdev/register_dev.c	/^ssize_t akae_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+akae_read	register_chrdev/register_dev_new.c	/^ssize_t akae_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+akae_release	cdev_stu/register_dev_new.c	/^int akae_release(struct inode *inode, struct file *filp)$/;"	f
+akae_release	register_chrdev/register_dev.c	/^int akae_release(struct inode *inode, struct file *filp)$/;"	f
+akae_release	register_chrdev/register_dev_new.c	/^int akae_release(struct inode *inode, struct file *filp)$/;"	f
+akae_timer	kegui/kegui.c	/^struct timer_list akae_timer;$/;"	v	typeref:struct:timer_list
+akae_timer_fn	kegui/kegui.c	/^void akae_timer_fn (unsigned long arg)$/;"	f
+akae_write	cdev_stu/register_dev_new.c	/^ssize_t akae_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+akae_write	register_chrdev/register_dev.c	/^ssize_t akae_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+akae_write	register_chrdev/register_dev_new.c	/^ssize_t akae_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+alarm_handle_timer	huawei/bcm_gps_tty.c	/^static enum alarmtimer_restart alarm_handle_timer(struct txalarm *alarm,$/;"	f	file:
+arry	digitr/led_write.c	/^char *arry[] = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};$/;"	v
+at24cxx_dev_exit	ch7005c.c	/^module_exit(at24cxx_dev_exit);$/;"	v
+at24cxx_dev_exit	ch7005c.c	/^static void at24cxx_dev_exit(void)$/;"	f	file:
+at24cxx_dev_init	ch7005c.c	/^module_init(at24cxx_dev_init);$/;"	v
+at24cxx_dev_init	ch7005c.c	/^static int at24cxx_dev_init(void)$/;"	f	file:
+attr	vga/temp/vgastate.c	/^	__u8 *attr;$/;"	m	struct:regstate	file:
+b	cdev_stu/register_dev_new.c	/^	int b;$/;"	m	struct:kinfo	file:
+b	register_chrdev/app.c	/^	int b;$/;"	m	struct:info	file:
+b	register_chrdev/register_dev.c	/^	int b;$/;"	m	struct:kinfo	file:
+b	register_chrdev/register_dev_new.c	/^	int b;$/;"	m	struct:kinfo	file:
+base_clockid	huawei/bcm_gps_tty.c	/^	clockid_t		base_clockid;$/;"	m	struct:txalarm_base	file:
+bcm477x_bye	huawei/bcm_gps_tty.c	/^static void bcm477x_bye(struct bcm_tty_priv *priv)$/;"	f	file:
+bcm477x_hello	huawei/bcm_gps_tty.c	/^static bool bcm477x_hello(struct bcm_tty_priv *priv)$/;"	f	file:
+bcm_tty_config	huawei/bcm_gps_tty.c	/^static int bcm_tty_config(struct file *f)$/;"	f	file:
+bcm_tty_exit	huawei/bcm_gps_tty.c	/^module_exit(bcm_tty_exit);$/;"	v
+bcm_tty_exit	huawei/bcm_gps_tty.c	/^static void __exit bcm_tty_exit(void)$/;"	f	file:
+bcm_tty_fops	huawei/bcm_gps_tty.c	/^static const struct file_operations bcm_tty_fops = {$/;"	v	typeref:struct:file_operations	file:
+bcm_tty_init	huawei/bcm_gps_tty.c	/^module_init(bcm_tty_init);$/;"	v
+bcm_tty_init	huawei/bcm_gps_tty.c	/^static int __init bcm_tty_init(void)$/;"	f	file:
+bcm_tty_ioctl	huawei/bcm_gps_tty.c	/^static long bcm_tty_ioctl( struct file *filp,$/;"	f	file:
+bcm_tty_open	huawei/bcm_gps_tty.c	/^static int bcm_tty_open(struct inode *inode, struct file *filp)$/;"	f	file:
+bcm_tty_poll	huawei/bcm_gps_tty.c	/^static unsigned int bcm_tty_poll(struct file *filp, poll_table *wait)$/;"	f	file:
+bcm_tty_priv	huawei/bcm_gps_tty.c	/^struct bcm_tty_priv$/;"	s	file:
+bcm_tty_read	huawei/bcm_gps_tty.c	/^static ssize_t bcm_tty_read(struct file *filp, char __user *buf, size_t size, loff_t *ppos)$/;"	f	file:
+bcm_tty_release	huawei/bcm_gps_tty.c	/^static int bcm_tty_release(struct inode *inode, struct file *filp)$/;"	f	file:
+bcm_tty_write	huawei/bcm_gps_tty.c	/^static ssize_t bcm_tty_write(struct file *filp, const char __user *buf, size_t size, loff_t *ppos)$/;"	f	file:
+blackwmap	vga/temp/vgacon.c	1042;"	d	file:
+cdev	exp-22/base/base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+cdev	exp-22/block/block.c	/^  struct cdev cdev; $/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::cdev	file:
+cdev	exp-22/irq/base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+cdev	exp-22/mutex/base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+cdev	exp-22/nonblock/block.c	/^  struct cdev cdev; $/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::cdev	file:
+cdev	exp-22/nonblock/block_another.c	/^  struct cdev cdev; $/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::cdev	file:
+cdev	exp-22/semaphore/base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+cdev	exp-22/spinlock/base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+ch7005c_client	ch7005c.c	/^static struct i2c_client *ch7005c_client;$/;"	v	typeref:struct:i2c_client	file:
+ch7005c_info	ch7005c.c	/^static struct i2c_board_info ch7005c_info = {$/;"	v	typeref:struct:i2c_board_info	file:
+check_fb	lcd/lcd.h	/^	int (*check_fb)(struct lcd_device *, struct fb_info *);$/;"	m	struct:lcd_ops
+clkdiv	vga/temp/vga16fb.c	/^	u8 misc, pel_msk, vss, clkdiv;$/;"	m	struct:vga16fb_par	file:
+cmapsz	vga/temp/vgacon.c	1043;"	d	file:
+cobalt_lcd_add	lcd.c	/^device_initcall(cobalt_lcd_add);$/;"	v
+cobalt_lcd_add	lcd.c	/^static __init int cobalt_lcd_add(void)$/;"	f	file:
+colourmap	vga/temp/vgacon.c	1039;"	d	file:
+count	huawei/bcm_gps_tty.c	/^	int 			count;$/;"	m	struct:txalarm_base	file:
+count	kegui/kegui.c	/^static  int count =0;$/;"	v	file:
+crtc	vga/temp/vga16fb.c	/^	u8 crtc[VGA_CRT_C];$/;"	m	struct:vga16fb_par	file:
+crtc	vga/temp/vgastate.c	/^	__u8 *crtc;$/;"	m	struct:regstate	file:
+current_len	exp-22/block/block.c	/^  unsigned int current_len;    $/;"	m	struct:globalfifo_dev	file:
+current_len	exp-22/nonblock/block.c	/^  unsigned int current_len;    $/;"	m	struct:globalfifo_dev	file:
+current_len	exp-22/nonblock/block_another.c	/^  unsigned int current_len;    $/;"	m	struct:globalfifo_dev	file:
+cursor_size_lastfrom	vga/temp/vgacon.c	/^static int cursor_size_lastfrom;$/;"	v	file:
+cursor_size_lastto	vga/temp/vgacon.c	/^static int cursor_size_lastto;$/;"	v	file:
+data	huawei/bcm_gps_tty.c	/^        void                    *data;$/;"	m	struct:txalarm	file:
+dev	cdev_stu/register_dev_new.c	/^dev_t dev;$/;"	v
+dev	lcd/lcd.h	/^	struct device dev;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::device
+dev	register_chrdev/register_dev_new.c	/^dev_t dev;$/;"	v
+ega16_setpalette	vga/temp/vga16fb.c	/^static void ega16_setpalette(int regno, unsigned red, unsigned green, unsigned blue)$/;"	f	file:
+ega16_setpalette	vga/vga16fb.c	/^static void ega16_setpalette(int regno, unsigned red, unsigned green, unsigned blue)$/;"	f	file:
+ex1_class	cdev_stu/register_dev_new.c	/^struct class *ex1_class;$/;"	v	typeref:struct:class
+ex1_class	register_chrdev/register_dev_new.c	/^struct class *ex1_class;$/;"	v	typeref:struct:class
+fb_notif	lcd/lcd.h	/^	struct notifier_block fb_notif;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::notifier_block
+fb_notifier_callback	lcd/lcd.c	/^static int fb_notifier_callback(struct notifier_block *self,$/;"	f	file:
+filename	register_chrdev/app.c	7;"	d	file:
+filename	serial/app.c	9;"	d	file:
+flag	exp-22/irq/base.c	/^  unsigned int flag;$/;"	m	struct:globalmem_dev	file:
+function	huawei/bcm_gps_tty.c	/^        enum alarmtimer_restart (*function)(struct txalarm *, ktime_t now);$/;"	m	struct:txalarm	typeref:enum:txalarm::function	file:
+get_contrast	lcd/lcd.h	/^	int (*get_contrast)(struct lcd_device *);$/;"	m	struct:lcd_ops
+get_power	lcd/lcd.h	/^	int (*get_power)(struct lcd_device *);$/;"	m	struct:lcd_ops
+getindex	vga/temp/vga16fb.c	/^static inline int getindex(void)$/;"	f	file:
+getindex	vga/vga16fb.c	/^static inline int getindex(void)$/;"	f	file:
+gettime	huawei/bcm_gps_tty.c	/^	ktime_t			(*gettime)(void);$/;"	m	struct:txalarm_base	file:
+gfx	vga/temp/vgastate.c	/^	__u8 *gfx;$/;"	m	struct:regstate	file:
+globalfifo_dev	exp-22/block/block.c	/^struct globalfifo_dev                                     $/;"	s	file:
+globalfifo_dev	exp-22/nonblock/block.c	/^struct globalfifo_dev                                     $/;"	s	file:
+globalfifo_dev	exp-22/nonblock/block_another.c	/^struct globalfifo_dev                                     $/;"	s	file:
+globalfifo_devp	exp-22/block/block.c	/^struct globalfifo_dev *globalfifo_devp; $/;"	v	typeref:struct:globalfifo_dev
+globalfifo_devp	exp-22/nonblock/block.c	/^struct globalfifo_dev *globalfifo_devp; $/;"	v	typeref:struct:globalfifo_dev
+globalfifo_devp	exp-22/nonblock/block_another.c	/^struct globalfifo_dev *globalfifo_devp; $/;"	v	typeref:struct:globalfifo_dev
+globalfifo_exit	exp-22/block/block.c	/^module_exit(globalfifo_exit);$/;"	v
+globalfifo_exit	exp-22/block/block.c	/^void globalfifo_exit(void)$/;"	f
+globalfifo_exit	exp-22/nonblock/block.c	/^module_exit(globalfifo_exit);$/;"	v
+globalfifo_exit	exp-22/nonblock/block.c	/^void globalfifo_exit(void)$/;"	f
+globalfifo_exit	exp-22/nonblock/block_another.c	/^module_exit(globalfifo_exit);$/;"	v
+globalfifo_exit	exp-22/nonblock/block_another.c	/^void globalfifo_exit(void)$/;"	f
+globalfifo_fops	exp-22/block/block.c	/^static const struct file_operations globalfifo_fops =$/;"	v	typeref:struct:file_operations	file:
+globalfifo_fops	exp-22/nonblock/block.c	/^static const struct file_operations globalfifo_fops =$/;"	v	typeref:struct:file_operations	file:
+globalfifo_fops	exp-22/nonblock/block_another.c	/^static const struct file_operations globalfifo_fops =$/;"	v	typeref:struct:file_operations	file:
+globalfifo_init	exp-22/block/block.c	/^int globalfifo_init(void)$/;"	f
+globalfifo_init	exp-22/block/block.c	/^module_init(globalfifo_init);$/;"	v
+globalfifo_init	exp-22/nonblock/block.c	/^int globalfifo_init(void)$/;"	f
+globalfifo_init	exp-22/nonblock/block.c	/^module_init(globalfifo_init);$/;"	v
+globalfifo_init	exp-22/nonblock/block_another.c	/^int globalfifo_init(void)$/;"	f
+globalfifo_init	exp-22/nonblock/block_another.c	/^module_init(globalfifo_init);$/;"	v
+globalfifo_ioctl	exp-22/block/block.c	/^static int globalfifo_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalfifo_ioctl	exp-22/nonblock/block.c	/^static int globalfifo_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalfifo_ioctl	exp-22/nonblock/block_another.c	/^static int globalfifo_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalfifo_major	exp-22/block/block.c	/^static int globalfifo_major = GLOBALFIFO_MAJOR;$/;"	v	file:
+globalfifo_major	exp-22/nonblock/block.c	/^static int globalfifo_major = GLOBALFIFO_MAJOR;$/;"	v	file:
+globalfifo_major	exp-22/nonblock/block_another.c	/^static int globalfifo_major = GLOBALFIFO_MAJOR;$/;"	v	file:
+globalfifo_open	exp-22/block/block.c	/^int globalfifo_open(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_open	exp-22/nonblock/block.c	/^int globalfifo_open(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_open	exp-22/nonblock/block_another.c	/^int globalfifo_open(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_poll	exp-22/nonblock/block.c	/^static unsigned int globalfifo_poll(struct file *filp, poll_table *wait)$/;"	f	file:
+globalfifo_poll	exp-22/nonblock/block_another.c	/^static unsigned int globalfifo_poll(struct file *filp, poll_table *wait)$/;"	f	file:
+globalfifo_read	exp-22/block/block.c	/^static ssize_t globalfifo_read(struct file *filp, char __user *buf, size_t count,$/;"	f	file:
+globalfifo_read	exp-22/nonblock/block.c	/^static ssize_t globalfifo_read(struct file *filp, char __user *buf, size_t count,$/;"	f	file:
+globalfifo_read	exp-22/nonblock/block_another.c	/^static ssize_t globalfifo_read(struct file *filp, char __user *buf, size_t count,$/;"	f	file:
+globalfifo_release	exp-22/block/block.c	/^int globalfifo_release(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_release	exp-22/nonblock/block.c	/^int globalfifo_release(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_release	exp-22/nonblock/block_another.c	/^int globalfifo_release(struct inode *inode, struct file *filp)$/;"	f
+globalfifo_setup_cdev	exp-22/block/block.c	/^static void globalfifo_setup_cdev(struct globalfifo_dev *dev, int index)$/;"	f	file:
+globalfifo_setup_cdev	exp-22/nonblock/block.c	/^static void globalfifo_setup_cdev(struct globalfifo_dev *dev, int index)$/;"	f	file:
+globalfifo_setup_cdev	exp-22/nonblock/block_another.c	/^static void globalfifo_setup_cdev(struct globalfifo_dev *dev, int index)$/;"	f	file:
+globalfifo_write	exp-22/block/block.c	/^static ssize_t globalfifo_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalfifo_write	exp-22/nonblock/block.c	/^static ssize_t globalfifo_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalfifo_write	exp-22/nonblock/block_another.c	/^static ssize_t globalfifo_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalmem_dev	exp-22/base/base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_dev	exp-22/irq/base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_dev	exp-22/mutex/base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_dev	exp-22/semaphore/base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_dev	exp-22/spinlock/base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_devp	exp-22/base/base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_devp	exp-22/irq/base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_devp	exp-22/mutex/base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_devp	exp-22/semaphore/base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_devp	exp-22/spinlock/base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_exit	exp-22/base/base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	exp-22/base/base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_exit	exp-22/irq/base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	exp-22/irq/base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_exit	exp-22/mutex/base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	exp-22/mutex/base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_exit	exp-22/semaphore/base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	exp-22/semaphore/base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_exit	exp-22/spinlock/base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	exp-22/spinlock/base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_fops	exp-22/base/base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_fops	exp-22/irq/base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_fops	exp-22/mutex/base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_fops	exp-22/semaphore/base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_fops	exp-22/spinlock/base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_init	exp-22/base/base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	exp-22/base/base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_init	exp-22/irq/base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	exp-22/irq/base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_init	exp-22/mutex/base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	exp-22/mutex/base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_init	exp-22/semaphore/base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	exp-22/semaphore/base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_init	exp-22/spinlock/base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	exp-22/spinlock/base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_ioctl	exp-22/base/base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_ioctl	exp-22/irq/base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_ioctl	exp-22/mutex/base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_ioctl	exp-22/semaphore/base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_ioctl	exp-22/spinlock/base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_major	exp-22/base/base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_major	exp-22/irq/base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_major	exp-22/mutex/base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_major	exp-22/semaphore/base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_major	exp-22/spinlock/base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_open	exp-22/base/base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_open	exp-22/irq/base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_open	exp-22/mutex/base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_open	exp-22/semaphore/base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_open	exp-22/spinlock/base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_read	exp-22/base/base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_read	exp-22/irq/base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_read	exp-22/mutex/base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_read	exp-22/semaphore/base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_read	exp-22/spinlock/base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_release	exp-22/base/base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_release	exp-22/irq/base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_release	exp-22/mutex/base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_release	exp-22/semaphore/base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_release	exp-22/spinlock/base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_setup_cdev	exp-22/base/base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_setup_cdev	exp-22/irq/base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_setup_cdev	exp-22/mutex/base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_setup_cdev	exp-22/semaphore/base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_setup_cdev	exp-22/spinlock/base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_write	exp-22/base/base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalmem_write	exp-22/irq/base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalmem_write	exp-22/mutex/base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalmem_write	exp-22/semaphore/base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+globalmem_write	exp-22/spinlock/base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+i2c_driver_ch7005c	ch7005c.c	/^static struct i2c_driver i2c_driver_ch7005c = {$/;"	v	typeref:struct:i2c_driver	file:
+info	register_chrdev/app.c	/^struct info{$/;"	s	file:
+isVGA	vga/temp/vga16fb.c	/^	int palette_blanked, vesa_blanked, mode, isVGA;$/;"	m	struct:vga16fb_par	file:
+key	digitr/digitr.c	/^static char key = NOKEY;$/;"	v	file:
+key	gpio_irq/teacher_gpio.c	/^static char key = NOKEY;$/;"	v	file:
+key	sdCard/sdCard.c	/^static char key = NOKEY;$/;"	v	file:
+key	urt/urt.c	/^static char key = NOKEY;$/;"	v	file:
+key_irq_isr	digitr/digitr.c	/^static irqreturn_t key_irq_isr(int irq, void *dev_id)$/;"	f	file:
+key_irq_isr	gpio_irq/teacher_gpio.c	/^static irqreturn_t key_irq_isr(int irq, void *dev_id)$/;"	f	file:
+key_irq_isr	urt/urt.c	/^static irqreturn_t key_irq_isr(int irq, void *dev_id)$/;"	f	file:
+key_scan	digitr/digitr.c	/^static char key_scan(void)$/;"	f	file:
+key_scan	gpio_irq/teacher_gpio.c	/^static char key_scan(void)$/;"	f	file:
+key_scan	urt/urt.c	/^static char key_scan(void)$/;"	f	file:
+keyirq_MAJOR	digitr/digitr.c	20;"	d	file:
+keyirq_MAJOR	gpio_irq/teacher_gpio.c	20;"	d	file:
+keyirq_MAJOR	sdCard/sdCard.c	20;"	d	file:
+keyirq_MAJOR	urt/urt.c	20;"	d	file:
+keyirq_exit	digitr/digitr.c	/^module_exit(keyirq_exit);$/;"	v
+keyirq_exit	digitr/digitr.c	/^void __exit keyirq_exit(void)$/;"	f
+keyirq_exit	gpio_irq/teacher_gpio.c	/^module_exit(keyirq_exit);$/;"	v
+keyirq_exit	gpio_irq/teacher_gpio.c	/^void __exit keyirq_exit(void)$/;"	f
+keyirq_exit	urt/urt.c	/^module_exit(keyirq_exit);$/;"	v
+keyirq_exit	urt/urt.c	/^void __exit keyirq_exit(void)$/;"	f
+keyirq_fops	digitr/digitr.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_fops	gpio_irq/teacher_gpio.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_fops	sdCard/sdCard.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_fops	urt/urt.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_init	digitr/digitr.c	/^int __init keyirq_init(void)$/;"	f
+keyirq_init	digitr/digitr.c	/^module_init(keyirq_init);$/;"	v
+keyirq_init	gpio_irq/teacher_gpio.c	/^int __init keyirq_init(void)$/;"	f
+keyirq_init	gpio_irq/teacher_gpio.c	/^module_init(keyirq_init);$/;"	v
+keyirq_init	urt/urt.c	/^int __init keyirq_init(void)$/;"	f
+keyirq_init	urt/urt.c	/^module_init(keyirq_init);$/;"	v
+keyirq_ioctl	digitr/digitr.c	/^int keyirq_ioctl(struct inode *inode, struct file *file,$/;"	f
+keyirq_ioctl	gpio_irq/teacher_gpio.c	/^int keyirq_ioctl(struct inode *inode, struct file *file,$/;"	f
+keyirq_ioctl	urt/urt.c	/^int keyirq_ioctl(struct inode *inode, struct file *file,$/;"	f
+keyirq_open	digitr/digitr.c	/^int keyirq_open(struct inode *inode, struct file *filp)$/;"	f
+keyirq_open	gpio_irq/teacher_gpio.c	/^int keyirq_open(struct inode *inode, struct file *filp)$/;"	f
+keyirq_open	urt/urt.c	/^int keyirq_open(struct inode *inode, struct file *filp)$/;"	f
+keyirq_read	digitr/digitr.c	/^static ssize_t keyirq_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+keyirq_read	gpio_irq/teacher_gpio.c	/^static ssize_t keyirq_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+keyirq_read	urt/urt.c	/^static ssize_t keyirq_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+keyirq_release	digitr/digitr.c	/^int keyirq_release(struct inode *inode, struct file *filp)$/;"	f
+keyirq_release	gpio_irq/teacher_gpio.c	/^int keyirq_release(struct inode *inode, struct file *filp)$/;"	f
+keyirq_release	urt/urt.c	/^int keyirq_release(struct inode *inode, struct file *filp)$/;"	f
+kinfo	cdev_stu/register_dev_new.c	/^struct kinfo{$/;"	s	file:
+kinfo	register_chrdev/register_dev.c	/^struct kinfo{$/;"	s	file:
+kinfo	register_chrdev/register_dev_new.c	/^struct kinfo{$/;"	s	file:
+lcd_class	lcd/lcd.c	/^static struct class *lcd_class;$/;"	v	typeref:struct:class	file:
+lcd_class_exit	lcd/lcd.c	/^module_exit(lcd_class_exit);$/;"	v
+lcd_class_exit	lcd/lcd.c	/^static void __exit lcd_class_exit(void)$/;"	f	file:
+lcd_class_init	lcd/lcd.c	/^postcore_initcall(lcd_class_init);$/;"	v
+lcd_class_init	lcd/lcd.c	/^static int __init lcd_class_init(void)$/;"	f	file:
+lcd_device	lcd/lcd.h	/^struct lcd_device {$/;"	s
+lcd_device_attributes	lcd/lcd.c	/^static struct device_attribute lcd_device_attributes[] = {$/;"	v	typeref:struct:device_attribute	file:
+lcd_device_register	lcd/lcd.c	/^EXPORT_SYMBOL(lcd_device_register);$/;"	v
+lcd_device_register	lcd/lcd.c	/^struct lcd_device *lcd_device_register(const char *name, struct device *parent,$/;"	f
+lcd_device_release	lcd/lcd.c	/^static void lcd_device_release(struct device *dev)$/;"	f	file:
+lcd_device_unregister	lcd/lcd.c	/^EXPORT_SYMBOL(lcd_device_unregister);$/;"	v
+lcd_device_unregister	lcd/lcd.c	/^void lcd_device_unregister(struct lcd_device *ld)$/;"	f
+lcd_get_data	lcd/lcd.h	/^static inline void * lcd_get_data(struct lcd_device *ld_dev)$/;"	f
+lcd_ops	lcd/lcd.h	/^struct lcd_ops {$/;"	s
+lcd_properties	lcd/lcd.h	/^struct lcd_properties {$/;"	s
+lcd_register_fb	lcd/lcd.c	/^static int lcd_register_fb(struct lcd_device *ld)$/;"	f	file:
+lcd_set_power	lcd/lcd.h	/^static inline void lcd_set_power(struct lcd_device *ld, int power)$/;"	f
+lcd_show_contrast	lcd/lcd.c	/^static ssize_t lcd_show_contrast(struct device *dev,$/;"	f	file:
+lcd_show_max_contrast	lcd/lcd.c	/^static ssize_t lcd_show_max_contrast(struct device *dev,$/;"	f	file:
+lcd_show_power	lcd/lcd.c	/^static ssize_t lcd_show_power(struct device *dev, struct device_attribute *attr,$/;"	f	file:
+lcd_store_contrast	lcd/lcd.c	/^static ssize_t lcd_store_contrast(struct device *dev,$/;"	f	file:
+lcd_store_power	lcd/lcd.c	/^static ssize_t lcd_store_power(struct device *dev,$/;"	f	file:
+lcd_unregister_fb	lcd/lcd.c	/^static inline void lcd_unregister_fb(struct lcd_device *ld)$/;"	f	file:
+lcd_unregister_fb	lcd/lcd.c	/^static void lcd_unregister_fb(struct lcd_device *ld)$/;"	f	file:
+led_exit	led/led.c	/^module_exit(led_exit);$/;"	v
+led_exit	led/led.c	/^void __exit led_exit(void)$/;"	f
+led_init	led/led.c	/^int __init led_init(void)$/;"	f
+led_init	led/led.c	/^module_init(led_init);$/;"	v
+led_open	led/led.c	/^int led_open(struct inode *inode, struct file *flip)$/;"	f
+led_write	led/led.c	/^int led_write(struct file *flip, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+lock	exp-22/spinlock/base.c	/^  spinlock_t lock;$/;"	m	struct:globalmem_dev	file:
+lock	huawei/bcm_gps_tty.c	/^	spinlock_t		lock;$/;"	m	struct:txalarm_base	file:
+main	digitr/app.c	/^int main()$/;"	f
+main	digitr/led_write.c	/^int main()$/;"	f
+main	exp-22/base/app.c	/^int main(void)$/;"	f
+main	exp-22/base/app1.c	/^int main(void)$/;"	f
+main	exp-22/block/app.c	/^int main(void)$/;"	f
+main	exp-22/block/app1.c	/^int main(void)$/;"	f
+main	exp-22/block/appr_nonblock.c	/^int main(void)$/;"	f
+main	exp-22/irq/app.c	/^int main(void)$/;"	f
+main	exp-22/irq/app1.c	/^int main(void)$/;"	f
+main	exp-22/mutex/app.c	/^int main(void)$/;"	f
+main	exp-22/mutex/app1.c	/^int main(void)$/;"	f
+main	exp-22/nonblock/app.c	/^main()$/;"	f
+main	exp-22/nonblock/app_another.c	/^main()$/;"	f
+main	exp-22/nonblock/appr.c	/^int main(void)$/;"	f
+main	exp-22/nonblock/appw.c	/^int main(void)$/;"	f
+main	exp-22/semaphore/app.c	/^int main(void)$/;"	f
+main	exp-22/semaphore/app1.c	/^int main(void)$/;"	f
+main	exp-22/spinlock/app.c	/^int main(void)$/;"	f
+main	exp-22/spinlock/app1.c	/^int main(void)$/;"	f
+main	gpio_irq/app.c	/^int main()$/;"	f
+main	led/led_test.c	/^int main(int argc, char *argv[])$/;"	f
+main	register_chrdev/app.c	/^int main(void)$/;"	f
+main	schedule/app.c	/^int main()$/;"	f
+main	sdCard/sdRead.c	/^int main(int  argc, char *argv[])$/;"	f
+main	serial/app.c	/^int main(void)$/;"	f
+main	urt/app.c	/^int main()$/;"	f
+main	调度实验/app.c	/^int main()$/;"	f
+max_contrast	lcd/lcd.h	/^	int max_contrast;$/;"	m	struct:lcd_properties
+mcu_req	huawei/bcm_gps_tty.c	/^	int mcu_req;$/;"	m	struct:bcm_tty_priv	file:
+mcu_resp	huawei/bcm_gps_tty.c	/^	int mcu_resp;$/;"	m	struct:bcm_tty_priv	file:
+mem	exp-22/base/base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+mem	exp-22/block/block.c	/^  unsigned char mem[GLOBALFIFO_SIZE]; $/;"	m	struct:globalfifo_dev	file:
+mem	exp-22/irq/base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+mem	exp-22/mutex/base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+mem	exp-22/nonblock/block.c	/^  unsigned char mem[GLOBALFIFO_SIZE]; $/;"	m	struct:globalfifo_dev	file:
+mem	exp-22/nonblock/block_another.c	/^  unsigned char mem[GLOBALFIFO_SIZE]; $/;"	m	struct:globalfifo_dev	file:
+mem	exp-22/semaphore/base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+mem	exp-22/spinlock/base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+misc	huawei/bcm_gps_tty.c	/^	struct miscdevice misc;$/;"	m	struct:bcm_tty_priv	typeref:struct:bcm_tty_priv::miscdevice	file:
+misc	vga/temp/vga16fb.c	/^	u8 misc, pel_msk, vss, clkdiv;$/;"	m	struct:vga16fb_par	file:
+misc	vga/temp/vgastate.c	/^	__u8 misc;$/;"	m	struct:regstate	file:
+mode	vga/temp/vga16fb.c	/^	int palette_blanked, vesa_blanked, mode, isVGA;$/;"	m	struct:vga16fb_par	file:
+my_cdev	cdev_stu/register_dev_new.c	/^struct cdev *my_cdev;$/;"	v	typeref:struct:cdev
+my_cdev	register_chrdev/register_dev_new.c	/^struct cdev *my_cdev;$/;"	v	typeref:struct:cdev
+my_fops	schedule/sched.c	/^struct file_operations my_fops ={$/;"	v	typeref:struct:file_operations
+my_fops	serial/serial.c	/^struct file_operations my_fops ={$/;"	v	typeref:struct:file_operations
+my_fops	调度实验/sched.c	/^struct file_operations my_fops ={$/;"	v	typeref:struct:file_operations
+my_ioctl	schedule/sched.c	/^int my_ioctl(struct inode *inode, struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+my_ioctl	调度实验/sched.c	/^int my_ioctl(struct inode *inode, struct file *filp, unsigned int cmd, unsigned long arg)$/;"	f
+my_major	cdev_stu/register_dev_new.c	/^static int my_major = AKAE_MAJOR, my_minor = 0;$/;"	v	file:
+my_major	register_chrdev/register_dev_new.c	/^static int my_major = AKAE_MAJOR, my_minor = 0;$/;"	v	file:
+my_minor	cdev_stu/register_dev_new.c	/^static int my_major = AKAE_MAJOR, my_minor = 0;$/;"	v	file:
+my_minor	register_chrdev/register_dev_new.c	/^static int my_major = AKAE_MAJOR, my_minor = 0;$/;"	v	file:
+my_mutex	exp-22/mutex/base.c	/^  struct mutex my_mutex;$/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::mutex	file:
+my_open	schedule/sched.c	/^int my_open(struct inode *inode, struct file *filp)$/;"	f
+my_open	serial/serial.c	/^int my_open(struct inode *inode, struct file *filp)$/;"	f
+my_open	调度实验/sched.c	/^int my_open(struct inode *inode, struct file *filp)$/;"	f
+my_read	schedule/sched.c	/^ssize_t my_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+my_read	serial/serial.c	/^ssize_t my_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+my_read	调度实验/sched.c	/^ssize_t my_read(struct file *filp, char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+my_release	schedule/sched.c	/^int my_release(struct inode *inode, struct file *filp)$/;"	f
+my_release	serial/serial.c	/^int my_release(struct inode *inode, struct file *filp)$/;"	f
+my_release	调度实验/sched.c	/^int my_release(struct inode *inode, struct file *filp)$/;"	f
+my_write	schedule/sched.c	/^ssize_t my_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+my_write	serial/serial.c	/^ssize_t my_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+my_write	调度实验/sched.c	/^ssize_t my_write(struct file *filp, const char __user *buf, size_t count, loff_t *f_pos)$/;"	f
+n	drive_2/driver.c	/^int n = 10;$/;"	v
+n	test2/driver.c	/^int n = 10;$/;"	v
+niu_fops	led/led.c	/^struct file_operations niu_fops = {$/;"	v	typeref:struct:file_operations
+no_scroll	vga/temp/vgacon.c	/^static int __init no_scroll(char *str)$/;"	f	file:
+node	huawei/bcm_gps_tty.c	/^        struct timerqueue_node  node;$/;"	m	struct:txalarm	typeref:struct:txalarm::timerqueue_node	file:
+obj-m	cdev_stu/Makefile	/^obj-m := register_dev_new.o$/;"	m
+obj-m	digitr/Makefile	/^obj-m:=digitr.o$/;"	m
+obj-m	drive_2/Makefile	/^obj-m := driver.o$/;"	m
+obj-m	exp-22/base/Makefile	/^obj-m := base.o$/;"	m
+obj-m	exp-22/block/Makefile	/^obj-m := block.o$/;"	m
+obj-m	exp-22/irq/Makefile	/^obj-m := base.o$/;"	m
+obj-m	exp-22/mutex/Makefile	/^obj-m := base.o$/;"	m
+obj-m	exp-22/nonblock/Makefile	/^obj-m := block.o block_another.o$/;"	m
+obj-m	exp-22/semaphore/Makefile	/^obj-m := base.o$/;"	m
+obj-m	exp-22/spinlock/Makefile	/^obj-m := base.o$/;"	m
+obj-m	gpio_irq/Makefile	/^obj-m:=teacher_gpio.o$/;"	m
+obj-m	huawei/Makefile	/^obj-m:=bcm_gps_tty.o$/;"	m
+obj-m	kegui/Makefile	/^obj-m := kegui.o$/;"	m
+obj-m	lcd/Makefile	/^obj-m:=lcd.o$/;"	m
+obj-m	led/Makefile	/^obj-m:=led.o$/;"	m
+obj-m	register_chrdev/Makefile	/^obj-m:=register_dev.o register_dev_new.o$/;"	m
+obj-m	schedule/Makefile	/^obj-m:=sched.o kill_deepsleep.o$/;"	m
+obj-m	sdCard/Makefile	/^obj-m:=sdCard.o$/;"	m
+obj-m	serial/Makefile	/^obj-m:=serial.o$/;"	m
+obj-m	test2/Makefile	/^obj-m := driver.o$/;"	m
+obj-m	urt/Makefile	/^obj-m:=urt.o$/;"	m
+obj-m	vga/Makefile	/^obj-m:=vga16fb.o$/;"	m
+obj-m	调度实验/Makefile	/^obj-m:=sched.o kill_deepsleep.o$/;"	m
+open_lock	vga/temp/vga16fb.c	/^	struct mutex open_lock;$/;"	m	struct:vga16fb_par	typeref:struct:vga16fb_par::mutex	file:
+ops	lcd/lcd.h	/^	struct lcd_ops *ops;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::lcd_ops
+ops_lock	lcd/lcd.h	/^	struct mutex ops_lock;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::mutex
+p	drive_2/driver.c	/^char *p = "hello";$/;"	v
+p	test2/driver.c	/^char *p = "hello";$/;"	v
+palette_blanked	vga/temp/vga16fb.c	/^	int palette_blanked, vesa_blanked, mode, isVGA;$/;"	m	struct:vga16fb_par	file:
+pel_msk	vga/temp/vga16fb.c	/^	u8 misc, pel_msk, vss, clkdiv;$/;"	m	struct:vga16fb_par	file:
+props	lcd/lcd.h	/^	struct lcd_properties props;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::lcd_properties
+r_wait	exp-22/block/block.c	/^  wait_queue_head_t r_wait; $/;"	m	struct:globalfifo_dev	file:
+r_wait	exp-22/nonblock/block.c	/^  wait_queue_head_t r_wait; $/;"	m	struct:globalfifo_dev	file:
+r_wait	exp-22/nonblock/block_another.c	/^  wait_queue_head_t r_wait; $/;"	m	struct:globalfifo_dev	file:
+read_buf	exp-22/base/app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/base/app1.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/block/app1.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/block/appr_nonblock.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/irq/app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/irq/app1.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/mutex/app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/mutex/app1.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/nonblock/appr.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/semaphore/app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/semaphore/app1.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/spinlock/app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	exp-22/spinlock/app1.c	/^unsigned char read_buf[1];$/;"	v
+ref_count	vga/temp/vga16fb.c	/^	unsigned int ref_count;$/;"	m	struct:vga16fb_par	file:
+regstate	vga/temp/vgastate.c	/^struct regstate {$/;"	s	file:
+restore_vga	vga/temp/vgastate.c	/^EXPORT_SYMBOL(restore_vga);$/;"	v
+restore_vga	vga/temp/vgastate.c	/^int restore_vga (struct vgastate *state)$/;"	f
+restore_vga_cmap	vga/temp/vgastate.c	/^static void restore_vga_cmap(struct vgastate *state)$/;"	f	file:
+restore_vga_mode	vga/temp/vgastate.c	/^static void restore_vga_mode(struct vgastate *state)$/;"	f	file:
+restore_vga_text	vga/temp/vgastate.c	/^static void restore_vga_text(struct vgastate *state, void __iomem *fbbase)$/;"	f	file:
+rmw	vga/temp/vga16fb.c	/^static inline void rmw(volatile char __iomem *p)$/;"	f	file:
+rmw	vga/vga16fb.c	/^static inline void rmw(volatile char __iomem *p)$/;"	f	file:
+s3c2440_serial_exit	drive_2/driver.c	/^module_exit(s3c2440_serial_exit);$/;"	v
+s3c2440_serial_exit	drive_2/driver.c	/^s3c2440_serial_exit (void)$/;"	f
+s3c2440_serial_exit	test2/driver.c	/^module_exit(s3c2440_serial_exit);$/;"	v
+s3c2440_serial_exit	test2/driver.c	/^s3c2440_serial_exit (void)$/;"	f
+s3c2440_serial_init	drive_2/driver.c	/^module_init(s3c2440_serial_init);$/;"	v
+s3c2440_serial_init	drive_2/driver.c	/^s3c2440_serial_init (void)$/;"	f
+s3c2440_serial_init	test2/driver.c	/^module_init(s3c2440_serial_init);$/;"	v
+s3c2440_serial_init	test2/driver.c	/^s3c2440_serial_init (void)$/;"	f
+s3c2440_serial_read	drive_2/driver.c	/^char s3c2440_serial_read(void)$/;"	f
+s3c2440_serial_read	test2/driver.c	/^char s3c2440_serial_read(void)$/;"	f
+s3c2440_serial_write	drive_2/driver.c	/^void s3c2440_serial_write(char ch)$/;"	f
+s3c2440_serial_write	test2/driver.c	/^void s3c2440_serial_write(char ch)$/;"	f
+save_vga	vga/temp/vgastate.c	/^EXPORT_SYMBOL(save_vga);$/;"	v
+save_vga	vga/temp/vgastate.c	/^int save_vga(struct vgastate *state)$/;"	f
+save_vga_cmap	vga/temp/vgastate.c	/^static void save_vga_cmap(struct vgastate *state)$/;"	f	file:
+save_vga_mode	vga/temp/vgastate.c	/^static void save_vga_mode(struct vgastate *state)$/;"	f	file:
+save_vga_text	vga/temp/vgastate.c	/^static void save_vga_text(struct vgastate *state, void __iomem *fbbase)$/;"	f	file:
+sched_flag	digitr/digitr.c	/^int sched_flag = 0;$/;"	v
+sched_flag	gpio_irq/teacher_gpio.c	/^int sched_flag = 0;$/;"	v
+sched_flag	sdCard/sdCard.c	/^int sched_flag = 0;$/;"	v
+sched_flag	urt/urt.c	/^int sched_flag = 0;$/;"	v
+sched_wq	digitr/digitr.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v
+sched_wq	gpio_irq/teacher_gpio.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v
+sched_wq	sdCard/sdCard.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v
+sched_wq	urt/urt.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v
+sdCard_exit	sdCard/sdCard.c	/^module_exit(sdCard_exit);$/;"	v
+sdCard_exit	sdCard/sdCard.c	/^void __exit sdCard_exit(void)$/;"	f
+sdCard_init	sdCard/sdCard.c	/^int __init sdCard_init(void)$/;"	f
+sdCard_init	sdCard/sdCard.c	/^module_init(sdCard_init);$/;"	v
+sdCard_ioctl	sdCard/sdCard.c	/^int sdCard_ioctl(struct inode *inode, struct file *file,$/;"	f
+sdCard_open	sdCard/sdCard.c	/^int sdCard_open(struct inode *inode, struct file *filp)$/;"	f
+sdCard_read	sdCard/sdCard.c	/^static ssize_t sdCard_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+sdCard_release	sdCard/sdCard.c	/^int sdCard_release(struct inode *inode, struct file *filp)$/;"	f
+seg_num	led/led.c	/^unsigned char seg_num[] = {$/;"	v
+selectmask	vga/temp/vga16fb.c	/^static inline int selectmask(void)$/;"	f	file:
+selectmask	vga/vga16fb.c	/^static inline int selectmask(void)$/;"	f	file:
+sem	exp-22/block/block.c	/^  struct semaphore sem;$/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::semaphore	file:
+sem	exp-22/nonblock/block.c	/^  struct semaphore sem;$/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::semaphore	file:
+sem	exp-22/nonblock/block_another.c	/^  struct semaphore sem;$/;"	m	struct:globalfifo_dev	typeref:struct:globalfifo_dev::semaphore	file:
+sem	exp-22/semaphore/base.c	/^  struct semaphore sem;$/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::semaphore	file:
+seq	vga/temp/vgastate.c	/^	__u8 *seq;$/;"	m	struct:regstate	file:
+ser_init	serial/serial.c	/^void ser_init(void)$/;"	f
+serial_exit	schedule/kill_deepsleep.c	/^module_exit(serial_exit);$/;"	v
+serial_exit	schedule/kill_deepsleep.c	/^serial_exit(void)$/;"	f
+serial_exit	schedule/sched.c	/^module_exit(serial_exit);$/;"	v
+serial_exit	schedule/sched.c	/^serial_exit(void)$/;"	f
+serial_exit	serial/serial.c	/^module_exit(serial_exit);$/;"	v
+serial_exit	serial/serial.c	/^void __exit serial_exit(void)$/;"	f
+serial_exit	调度实验/kill_deepsleep.c	/^module_exit(serial_exit);$/;"	v
+serial_exit	调度实验/kill_deepsleep.c	/^serial_exit(void)$/;"	f
+serial_exit	调度实验/sched.c	/^module_exit(serial_exit);$/;"	v
+serial_exit	调度实验/sched.c	/^serial_exit(void)$/;"	f
+serial_init	schedule/kill_deepsleep.c	/^module_init(serial_init);$/;"	v
+serial_init	schedule/kill_deepsleep.c	/^serial_init(void)$/;"	f
+serial_init	schedule/sched.c	/^module_init(serial_init);$/;"	v
+serial_init	schedule/sched.c	/^serial_init(void)$/;"	f
+serial_init	serial/serial.c	/^int __init serial_init(void)$/;"	f
+serial_init	serial/serial.c	/^module_init(serial_init);$/;"	v
+serial_init	调度实验/kill_deepsleep.c	/^module_init(serial_init);$/;"	v
+serial_init	调度实验/kill_deepsleep.c	/^serial_init(void)$/;"	f
+serial_init	调度实验/sched.c	/^module_init(serial_init);$/;"	v
+serial_init	调度实验/sched.c	/^serial_init(void)$/;"	f
+set_contrast	lcd/lcd.h	/^        int (*set_contrast)(struct lcd_device *, int contrast);$/;"	m	struct:lcd_ops
+set_power	lcd/lcd.h	/^	int (*set_power)(struct lcd_device *, int power);$/;"	m	struct:lcd_ops
+setcolor	vga/temp/vga16fb.c	/^static inline int setcolor(int color)$/;"	f	file:
+setcolor	vga/vga16fb.c	/^static inline int setcolor(int color)$/;"	f	file:
+setindex	vga/temp/vga16fb.c	/^static inline void setindex(int index)$/;"	f	file:
+setindex	vga/vga16fb.c	/^static inline void setindex(int index)$/;"	f	file:
+setmask	vga/temp/vga16fb.c	/^static inline void setmask(int mask)$/;"	f	file:
+setmask	vga/vga16fb.c	/^static inline void setmask(int mask)$/;"	f	file:
+setmode	vga/temp/vga16fb.c	/^static inline int setmode(int mode)$/;"	f	file:
+setmode	vga/vga16fb.c	/^static inline int setmode(int mode)$/;"	f	file:
+setop	vga/temp/vga16fb.c	/^static inline int setop(int op)$/;"	f	file:
+setop	vga/vga16fb.c	/^static inline int setop(int op)$/;"	f	file:
+setsr	vga/temp/vga16fb.c	/^static inline int setsr(int sr)$/;"	f	file:
+setsr	vga/vga16fb.c	/^static inline int setsr(int sr)$/;"	f	file:
+state	huawei/bcm_gps_tty.c	/^        int                     state;$/;"	m	struct:txalarm	file:
+state	vga/temp/vga16fb.c	/^	struct vgastate state;$/;"	m	struct:vga16fb_par	typeref:struct:vga16fb_par::vgastate	file:
+state	vga/temp/vgacon.c	/^static struct vgastate state;$/;"	v	typeref:struct:vgastate	file:
+sum	huawei/bcm_gps_tty.c	/^	unsigned long   	sum;$/;"	m	struct:txalarm	file:
+sum	huawei/bcm_gps_tty.c	/^	unsigned long   	sum;$/;"	m	struct:txalarm_base	file:
+test_ioctl	register_chrdev/app.c	/^int test_ioctl(int fd)$/;"	f
+timer	huawei/bcm_gps_tty.c	/^        struct hrtimer          timer;$/;"	m	struct:txalarm	typeref:struct:txalarm::hrtimer	file:
+timer_arm	huawei/bcm_gps_tty.c	/^static int timer_arm( struct bcm_tty_priv *priv, size_t bytes )$/;"	f	file:
+timer_expiration_ns	huawei/bcm_gps_tty.c	/^	unsigned long           timer_expiration_ns;$/;"	m	struct:txalarm	file:
+timerqueue	huawei/bcm_gps_tty.c	/^	struct timerqueue_head	timerqueue;$/;"	m	struct:txalarm_base	typeref:struct:txalarm_base::timerqueue_head	file:
+to_lcd_device	lcd/lcd.h	81;"	d
+transl_h	vga/temp/vga16fb.c	/^static const u16 transl_h[] = TRANS_MASK_HIGH;$/;"	v	file:
+transl_h	vga/temp/vga16fb.c	/^static const u16 transl_h[] = TRANS_MASK_LOW;$/;"	v	file:
+transl_h	vga/vga16fb.c	/^static const u16 transl_h[] = TRANS_MASK_HIGH;$/;"	v	file:
+transl_h	vga/vga16fb.c	/^static const u16 transl_h[] = TRANS_MASK_LOW;$/;"	v	file:
+transl_l	vga/temp/vga16fb.c	/^static const u16 transl_l[] = TRANS_MASK_HIGH;$/;"	v	file:
+transl_l	vga/temp/vga16fb.c	/^static const u16 transl_l[] = TRANS_MASK_LOW;$/;"	v	file:
+transl_l	vga/vga16fb.c	/^static const u16 transl_l[] = TRANS_MASK_HIGH;$/;"	v	file:
+transl_l	vga/vga16fb.c	/^static const u16 transl_l[] = TRANS_MASK_LOW;$/;"	v	file:
+tty	huawei/bcm_gps_tty.c	/^	struct file *tty;$/;"	m	struct:bcm_tty_priv	typeref:struct:bcm_tty_priv::file	file:
+txalarm	huawei/bcm_gps_tty.c	/^struct txalarm {$/;"	s	file:
+txalarm_base	huawei/bcm_gps_tty.c	/^static struct txalarm_base {$/;"	s	file:
+txalarm_bases	huawei/bcm_gps_tty.c	/^} txalarm_bases[1];$/;"	v	typeref:struct:txalarm_base	file:
+txalarm_expires_remaining	huawei/bcm_gps_tty.c	/^ktime_t txalarm_expires_remaining(const struct txalarm *alarm)$/;"	f
+txalarm_init	huawei/bcm_gps_tty.c	/^static void txalarm_init(struct txalarm *alarm, enum alarmtimer_type type,$/;"	f	file:
+txalarm_start	huawei/bcm_gps_tty.c	/^static void txalarm_start(struct txalarm *alarm, ktime_t start)$/;"	f	file:
+txalarmtimer_enqueue	huawei/bcm_gps_tty.c	/^static void txalarmtimer_enqueue(struct txalarm_base *base, struct txalarm *alarm)$/;"	f	file:
+txalarmtimer_fired	huawei/bcm_gps_tty.c	/^static enum hrtimer_restart txalarmtimer_fired(struct hrtimer *timer)$/;"	f	file:
+txalarmtimer_remove	huawei/bcm_gps_tty.c	/^static void txalarmtimer_remove(struct txalarm_base *base, struct txalarm *alarm)$/;"	f	file:
+txalarmtimer_type	huawei/bcm_gps_tty.c	/^enum txalarmtimer_type {$/;"	g	file:
+type	huawei/bcm_gps_tty.c	/^        enum txalarmtimer_type    type;$/;"	m	struct:txalarm	typeref:enum:txalarm::txalarmtimer_type	file:
+update_lock	lcd/lcd.h	/^	struct mutex update_lock;$/;"	m	struct:lcd_device	typeref:struct:lcd_device::mutex
+vesa_blanked	vga/temp/vga16fb.c	/^	int palette_blanked, vesa_blanked, mode, isVGA;$/;"	m	struct:vga16fb_par	file:
+vga16_setpalette	vga/temp/vga16fb.c	/^static void vga16_setpalette(int regno, unsigned red, unsigned green, unsigned blue)$/;"	f	file:
+vga16_setpalette	vga/vga16fb.c	/^static void vga16_setpalette(int regno, unsigned red, unsigned green, unsigned blue)$/;"	f	file:
+vga16fb_blank	vga/temp/vga16fb.c	/^static int vga16fb_blank(int blank, struct fb_info *info)$/;"	f	file:
+vga16fb_blank	vga/vga16fb.c	/^static int vga16fb_blank(int blank, struct fb_info *info)$/;"	f	file:
+vga16fb_check_var	vga/temp/vga16fb.c	/^static int vga16fb_check_var(struct fb_var_screeninfo *var,$/;"	f	file:
+vga16fb_check_var	vga/vga16fb.c	/^static int vga16fb_check_var(struct fb_var_screeninfo *var,$/;"	f	file:
+vga16fb_clock_chip	vga/temp/vga16fb.c	/^static void vga16fb_clock_chip(struct vga16fb_par *par,$/;"	f	file:
+vga16fb_clock_chip	vga/vga16fb.c	/^static void vga16fb_clock_chip(struct vga16fb_par *par,$/;"	f	file:
+vga16fb_copyarea	vga/temp/vga16fb.c	/^static void vga16fb_copyarea(struct fb_info *info, const struct fb_copyarea *area)$/;"	f	file:
+vga16fb_copyarea	vga/vga16fb.c	/^static void vga16fb_copyarea(struct fb_info *info, const struct fb_copyarea *area)$/;"	f	file:
+vga16fb_device	vga/temp/vga16fb.c	/^static struct platform_device *vga16fb_device;$/;"	v	typeref:struct:platform_device	file:
+vga16fb_device	vga/vga16fb.c	/^static struct platform_device *vga16fb_device;$/;"	v	typeref:struct:platform_device	file:
+vga16fb_driver	vga/temp/vga16fb.c	/^static struct platform_driver vga16fb_driver = {$/;"	v	typeref:struct:platform_driver	file:
+vga16fb_driver	vga/vga16fb.c	/^static struct platform_driver vga16fb_driver = {$/;"	v	typeref:struct:platform_driver	file:
+vga16fb_exit	vga/temp/vga16fb.c	/^module_exit(vga16fb_exit);$/;"	v
+vga16fb_exit	vga/temp/vga16fb.c	/^static void __exit vga16fb_exit(void)$/;"	f	file:
+vga16fb_exit	vga/vga16fb.c	/^module_exit(vga16fb_exit);$/;"	v
+vga16fb_exit	vga/vga16fb.c	/^static void __exit vga16fb_exit(void)$/;"	f	file:
+vga16fb_fillrect	vga/temp/vga16fb.c	/^static void vga16fb_fillrect(struct fb_info *info, const struct fb_fillrect *rect)$/;"	f	file:
+vga16fb_fillrect	vga/vga16fb.c	/^static void vga16fb_fillrect(struct fb_info *info, const struct fb_fillrect *rect)$/;"	f	file:
+vga16fb_imageblit	vga/temp/vga16fb.c	/^static void vga16fb_imageblit(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga16fb_imageblit	vga/vga16fb.c	/^static void vga16fb_imageblit(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga16fb_init	vga/temp/vga16fb.c	/^module_init(vga16fb_init);$/;"	v
+vga16fb_init	vga/temp/vga16fb.c	/^static int __init vga16fb_init(void)$/;"	f	file:
+vga16fb_init	vga/vga16fb.c	/^module_init(vga16fb_init);$/;"	v
+vga16fb_init	vga/vga16fb.c	/^static int __init vga16fb_init(void)$/;"	f	file:
+vga16fb_open	vga/temp/vga16fb.c	/^static int vga16fb_open(struct fb_info *info, int user)$/;"	f	file:
+vga16fb_open	vga/vga16fb.c	/^static int vga16fb_open(struct fb_info *info, int user)$/;"	f	file:
+vga16fb_ops	vga/temp/vga16fb.c	/^static struct fb_ops vga16fb_ops = {$/;"	v	typeref:struct:fb_ops	file:
+vga16fb_ops	vga/vga16fb.c	/^static struct fb_ops vga16fb_ops = {$/;"	v	typeref:struct:fb_ops	file:
+vga16fb_pan_display	vga/temp/vga16fb.c	/^static int vga16fb_pan_display(struct fb_var_screeninfo *var,$/;"	f	file:
+vga16fb_pan_display	vga/vga16fb.c	/^static int vga16fb_pan_display(struct fb_var_screeninfo *var,$/;"	f	file:
+vga16fb_pan_var	vga/temp/vga16fb.c	/^static void vga16fb_pan_var(struct fb_info *info, $/;"	f	file:
+vga16fb_pan_var	vga/vga16fb.c	/^static void vga16fb_pan_var(struct fb_info *info, $/;"	f	file:
+vga16fb_par	vga/temp/vga16fb.c	/^struct vga16fb_par {$/;"	s	file:
+vga16fb_probe	vga/temp/vga16fb.c	/^static int __init vga16fb_probe(struct platform_device *dev)$/;"	f	file:
+vga16fb_probe	vga/vga16fb.c	/^static int __init vga16fb_probe(struct platform_device *dev)$/;"	f	file:
+vga16fb_release	vga/temp/vga16fb.c	/^static int vga16fb_release(struct fb_info *info, int user)$/;"	f	file:
+vga16fb_release	vga/vga16fb.c	/^static int vga16fb_release(struct fb_info *info, int user)$/;"	f	file:
+vga16fb_remove	vga/temp/vga16fb.c	/^static int vga16fb_remove(struct platform_device *dev)$/;"	f	file:
+vga16fb_remove	vga/vga16fb.c	/^static int vga16fb_remove(struct platform_device *dev)$/;"	f	file:
+vga16fb_set_par	vga/temp/vga16fb.c	/^static int vga16fb_set_par(struct fb_info *info)$/;"	f	file:
+vga16fb_set_par	vga/vga16fb.c	/^static int vga16fb_set_par(struct fb_info *info)$/;"	f	file:
+vga16fb_setcolreg	vga/temp/vga16fb.c	/^static int vga16fb_setcolreg(unsigned regno, unsigned red, unsigned green,$/;"	f	file:
+vga16fb_setcolreg	vga/vga16fb.c	/^static int vga16fb_setcolreg(unsigned regno, unsigned red, unsigned green,$/;"	f	file:
+vga16fb_setup	vga/temp/vga16fb.c	/^static int vga16fb_setup(char *options)$/;"	f	file:
+vga16fb_setup	vga/vga16fb.c	/^static int vga16fb_setup(char *options)$/;"	f	file:
+vga16fb_update_fix	vga/temp/vga16fb.c	/^static void vga16fb_update_fix(struct fb_info *info)$/;"	f	file:
+vga16fb_update_fix	vga/vga16fb.c	/^static void vga16fb_update_fix(struct fb_info *info)$/;"	f	file:
+vga_512_chars	vga/temp/vgacon.c	/^static int 		vga_512_chars;$/;"	v	file:
+vga_8planes_copyarea	vga/temp/vga16fb.c	/^static void vga_8planes_copyarea(struct fb_info *info, const struct fb_copyarea *area)$/;"	f	file:
+vga_8planes_copyarea	vga/vga16fb.c	/^static void vga_8planes_copyarea(struct fb_info *info, const struct fb_copyarea *area)$/;"	f	file:
+vga_8planes_fillrect	vga/temp/vga16fb.c	/^static void vga_8planes_fillrect(struct fb_info *info, const struct fb_fillrect *rect)$/;"	f	file:
+vga_8planes_fillrect	vga/vga16fb.c	/^static void vga_8planes_fillrect(struct fb_info *info, const struct fb_fillrect *rect)$/;"	f	file:
+vga_8planes_imageblit	vga/temp/vga16fb.c	/^static void vga_8planes_imageblit(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_8planes_imageblit	vga/vga16fb.c	/^static void vga_8planes_imageblit(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_cleanup	vga/temp/vgastate.c	/^static void vga_cleanup(struct vgastate *state)$/;"	f	file:
+vga_cmap	vga/temp/vgastate.c	/^	__u8 *vga_cmap;$/;"	m	struct:regstate	file:
+vga_con	vga/temp/vgacon.c	/^const struct consw vga_con = {$/;"	v	typeref:struct:consw
+vga_font0	vga/temp/vgastate.c	/^	__u8 *vga_font0;$/;"	m	struct:regstate	file:
+vga_font1	vga/temp/vgastate.c	/^	__u8 *vga_font1;$/;"	m	struct:regstate	file:
+vga_font_is_default	vga/temp/vgacon.c	/^static unsigned char	vga_font_is_default = 1;$/;"	v	file:
+vga_imageblit_color	vga/temp/vga16fb.c	/^static void vga_imageblit_color(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_imageblit_color	vga/vga16fb.c	/^static void vga_imageblit_color(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_imageblit_expand	vga/temp/vga16fb.c	/^static void vga_imageblit_expand(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_imageblit_expand	vga/vga16fb.c	/^static void vga_imageblit_expand(struct fb_info *info, const struct fb_image *image)$/;"	f	file:
+vga_is_gfx	vga/temp/vgacon.c	/^static int 		vga_is_gfx;$/;"	v	file:
+vga_pal_blank	vga/temp/vga16fb.c	/^static void vga_pal_blank(void)$/;"	f	file:
+vga_pal_blank	vga/temp/vgacon.c	/^static void vga_pal_blank(struct vgastate *state)$/;"	f	file:
+vga_pal_blank	vga/vga16fb.c	/^static void vga_pal_blank(void)$/;"	f	file:
+vga_palette_blanked	vga/temp/vgacon.c	/^static int 		vga_palette_blanked;$/;"	v	file:
+vga_rcrtcs	vga/temp/vgastate.c	/^static inline unsigned char vga_rcrtcs(void __iomem *regbase, unsigned short iobase, $/;"	f	file:
+vga_rolled_over	vga/temp/vgacon.c	/^static unsigned int 	vga_rolled_over;$/;"	v	file:
+vga_set_mem_top	vga/temp/vgacon.c	/^static inline void vga_set_mem_top(struct vc_data *c)$/;"	f	file:
+vga_set_palette	vga/temp/vgacon.c	/^static void vga_set_palette(struct vc_data *vc, unsigned char *table)$/;"	f	file:
+vga_state	vga/temp/vga16fb.c	/^	} vga_state;$/;"	m	struct:vga16fb_par	typeref:struct:vga16fb_par::__anon1	file:
+vga_state	vga/temp/vgacon.c	/^} vga_state;$/;"	v	typeref:struct:__anon2	file:
+vga_text	vga/temp/vgastate.c	/^	__u8 *vga_text;$/;"	m	struct:regstate	file:
+vga_vesa_blank	vga/temp/vga16fb.c	/^static void vga_vesa_blank(struct vga16fb_par *par, int mode)$/;"	f	file:
+vga_vesa_blank	vga/temp/vgacon.c	/^static void vga_vesa_blank(struct vgastate *state, int mode)$/;"	f	file:
+vga_vesa_blank	vga/vga16fb.c	/^static void vga_vesa_blank(struct vga16fb_par *par, int mode)$/;"	f	file:
+vga_vesa_blanked	vga/temp/vgacon.c	/^static int		vga_vesa_blanked;$/;"	v	file:
+vga_vesa_unblank	vga/temp/vga16fb.c	/^static void vga_vesa_unblank(struct vga16fb_par *par)$/;"	f	file:
+vga_vesa_unblank	vga/temp/vgacon.c	/^static void vga_vesa_unblank(struct vgastate *state)$/;"	f	file:
+vga_vesa_unblank	vga/vga16fb.c	/^static void vga_vesa_unblank(struct vga16fb_par *par)$/;"	f	file:
+vga_video_font_height	vga/temp/vgacon.c	/^static int 		vga_video_font_height;$/;"	v	file:
+vga_video_num_columns	vga/temp/vgacon.c	/^static unsigned int	vga_video_num_columns;			\/* Number of text columns *\/$/;"	v	file:
+vga_video_num_lines	vga/temp/vgacon.c	/^static unsigned int	vga_video_num_lines;			\/* Number of text lines *\/$/;"	v	file:
+vga_wcrtcs	vga/temp/vgastate.c	/^static inline void vga_wcrtcs(void __iomem *regbase, unsigned short iobase, $/;"	f	file:
+vgacon_adjust_height	vga/temp/vgacon.c	/^static int vgacon_adjust_height(struct vc_data *vc, unsigned fontheight)$/;"	f	file:
+vgacon_blank	vga/temp/vgacon.c	/^static int vgacon_blank(struct vc_data *c, int blank, int mode_switch)$/;"	f	file:
+vgacon_build_attr	vga/temp/vgacon.c	/^static u8 vgacon_build_attr(struct vc_data *c, u8 color, u8 intensity,$/;"	f	file:
+vgacon_cursor	vga/temp/vgacon.c	/^static void vgacon_cursor(struct vc_data *c, int mode)$/;"	f	file:
+vgacon_deinit	vga/temp/vgacon.c	/^static void vgacon_deinit(struct vc_data *c)$/;"	f	file:
+vgacon_do_font_op	vga/temp/vgacon.c	/^static int vgacon_do_font_op(struct vgastate *state,char *arg,int set,int ch512)$/;"	f	file:
+vgacon_doresize	vga/temp/vgacon.c	/^static int vgacon_doresize(struct vc_data *c,$/;"	f	file:
+vgacon_dummy	vga/temp/vgacon.c	/^static int vgacon_dummy(struct vc_data *c)$/;"	f	file:
+vgacon_font_get	vga/temp/vgacon.c	/^static int vgacon_font_get(struct vc_data *c, struct console_font *font)$/;"	f	file:
+vgacon_font_get	vga/temp/vgacon.c	1275;"	d	file:
+vgacon_font_set	vga/temp/vgacon.c	/^static int vgacon_font_set(struct vc_data *c, struct console_font *font, unsigned flags)$/;"	f	file:
+vgacon_font_set	vga/temp/vgacon.c	1274;"	d	file:
+vgacon_init	vga/temp/vgacon.c	/^static void vgacon_init(struct vc_data *c, int init)$/;"	f	file:
+vgacon_invert_region	vga/temp/vgacon.c	/^static void vgacon_invert_region(struct vc_data *c, u16 * p, int count)$/;"	f	file:
+vgacon_resize	vga/temp/vgacon.c	/^static int vgacon_resize(struct vc_data *c, unsigned int width,$/;"	f	file:
+vgacon_restore_screen	vga/temp/vgacon.c	/^static void vgacon_restore_screen(struct vc_data *c)$/;"	f	file:
+vgacon_save_screen	vga/temp/vgacon.c	/^static void vgacon_save_screen(struct vc_data *c)$/;"	f	file:
+vgacon_scroll	vga/temp/vgacon.c	/^static int vgacon_scroll(struct vc_data *c, int t, int b, int dir,$/;"	f	file:
+vgacon_scrollback	vga/temp/vgacon.c	/^static void *vgacon_scrollback;$/;"	v	file:
+vgacon_scrollback_cnt	vga/temp/vgacon.c	/^static int vgacon_scrollback_cnt;$/;"	v	file:
+vgacon_scrollback_cur	vga/temp/vgacon.c	/^static int vgacon_scrollback_cur;$/;"	v	file:
+vgacon_scrollback_init	vga/temp/vgacon.c	/^static void vgacon_scrollback_init(int pitch)$/;"	f	file:
+vgacon_scrollback_init	vga/temp/vgacon.c	318;"	d	file:
+vgacon_scrollback_restore	vga/temp/vgacon.c	/^static int vgacon_scrollback_restore;$/;"	v	file:
+vgacon_scrollback_rows	vga/temp/vgacon.c	/^static int vgacon_scrollback_rows;$/;"	v	file:
+vgacon_scrollback_save	vga/temp/vgacon.c	/^static int vgacon_scrollback_save;$/;"	v	file:
+vgacon_scrollback_size	vga/temp/vgacon.c	/^static int vgacon_scrollback_size;$/;"	v	file:
+vgacon_scrollback_startup	vga/temp/vgacon.c	/^static void __init_refok vgacon_scrollback_startup(void)$/;"	f	file:
+vgacon_scrollback_startup	vga/temp/vgacon.c	317;"	d	file:
+vgacon_scrollback_tail	vga/temp/vgacon.c	/^static int vgacon_scrollback_tail;$/;"	v	file:
+vgacon_scrollback_update	vga/temp/vgacon.c	/^static void vgacon_scrollback_update(struct vc_data *c, int t, int count)$/;"	f	file:
+vgacon_scrollback_update	vga/temp/vgacon.c	319;"	d	file:
+vgacon_scrolldelta	vga/temp/vgacon.c	/^static int vgacon_scrolldelta(struct vc_data *c, int lines)$/;"	f	file:
+vgacon_set_cursor_size	vga/temp/vgacon.c	/^static void vgacon_set_cursor_size(int xpos, int from, int to)$/;"	f	file:
+vgacon_set_origin	vga/temp/vgacon.c	/^static int vgacon_set_origin(struct vc_data *c)$/;"	f	file:
+vgacon_set_palette	vga/temp/vgacon.c	/^static int vgacon_set_palette(struct vc_data *vc, unsigned char *table)$/;"	f	file:
+vgacon_startup	vga/temp/vgacon.c	/^static const char *vgacon_startup(void)$/;"	f	file:
+vgacon_switch	vga/temp/vgacon.c	/^static int vgacon_switch(struct vc_data *c)$/;"	f	file:
+vgacon_uni_pagedir	vga/temp/vgacon.c	/^static unsigned long vgacon_uni_pagedir[2];$/;"	v	file:
+vgacon_xres	vga/temp/vgacon.c	/^static u32 vgacon_xres;$/;"	v	file:
+vgacon_yres	vga/temp/vgacon.c	/^static u32 vgacon_yres;$/;"	v	file:
+vss	vga/temp/vga16fb.c	/^	u8 misc, pel_msk, vss, clkdiv;$/;"	m	struct:vga16fb_par	file:
+w_wait	exp-22/block/block.c	/^  wait_queue_head_t w_wait; $/;"	m	struct:globalfifo_dev	file:
+w_wait	exp-22/nonblock/block.c	/^  wait_queue_head_t w_wait; $/;"	m	struct:globalfifo_dev	file:
+w_wait	exp-22/nonblock/block_another.c	/^  wait_queue_head_t w_wait; $/;"	m	struct:globalfifo_dev	file:
+write_buf	exp-22/base/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/base/app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v
+write_buf	exp-22/block/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/irq/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/irq/app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v
+write_buf	exp-22/mutex/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/mutex/app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v
+write_buf	exp-22/nonblock/appw.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/semaphore/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/semaphore/app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v
+write_buf	exp-22/spinlock/app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	exp-22/spinlock/app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v
+write_vga	vga/temp/vgacon.c	/^static inline void write_vga(unsigned char reg, unsigned int val)$/;"	f	file:

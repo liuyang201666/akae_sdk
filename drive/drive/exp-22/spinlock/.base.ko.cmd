@@ -1,0 +1,1 @@
+cmd_/home/src/mytest/exp-22/spinlock/base.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /home/src/mytest/exp-22/spinlock/base.ko /home/src/mytest/exp-22/spinlock/base.o /home/src/mytest/exp-22/spinlock/base.mod.o

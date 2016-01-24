@@ -1,0 +1,38 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BUFFER_LEN	app.c	17;"	d	file:
+BUFFER_LEN	app1.c	17;"	d	file:
+FIFO_CLEAR	app.c	16;"	d	file:
+FIFO_CLEAR	app1.c	16;"	d	file:
+GLOBALMEM_MAJOR	base.c	21;"	d	file:
+GLOBALMEM_SIZE	base.c	19;"	d	file:
+KDIR	Makefile	/^KDIR := ..\/linux$/;"	m
+MEM_CLEAR	base.c	20;"	d	file:
+cdev	base.c	/^  struct cdev cdev; $/;"	m	struct:globalmem_dev	typeref:struct:globalmem_dev::cdev	file:
+globalmem_dev	base.c	/^struct globalmem_dev                                     $/;"	s	file:
+globalmem_devp	base.c	/^struct globalmem_dev *globalmem_devp; $/;"	v	typeref:struct:globalmem_dev
+globalmem_exit	base.c	/^module_exit(globalmem_exit);$/;"	v
+globalmem_exit	base.c	/^void globalmem_exit(void)$/;"	f
+globalmem_fops	base.c	/^static const struct file_operations globalmem_fops =$/;"	v	typeref:struct:file_operations	file:
+globalmem_init	base.c	/^int globalmem_init(void)$/;"	f
+globalmem_init	base.c	/^module_init(globalmem_init);$/;"	v
+globalmem_ioctl	base.c	/^static int globalmem_ioctl(struct inode *inodep, struct file *filp, unsigned$/;"	f	file:
+globalmem_major	base.c	/^static globalmem_major = GLOBALMEM_MAJOR;$/;"	v	file:
+globalmem_open	base.c	/^int globalmem_open(struct inode *inode, struct file *filp)$/;"	f
+globalmem_read	base.c	/^static ssize_t globalmem_read(struct file *filp, char __user *buf, size_t size,$/;"	f	file:
+globalmem_release	base.c	/^int globalmem_release(struct inode *inode, struct file *filp)$/;"	f
+globalmem_setup_cdev	base.c	/^static void globalmem_setup_cdev(struct globalmem_dev *dev, int index)$/;"	f	file:
+globalmem_write	base.c	/^static ssize_t globalmem_write(struct file *filp, const char __user *buf,$/;"	f	file:
+lock	base.c	/^  spinlock_t lock;$/;"	m	struct:globalmem_dev	file:
+main	app.c	/^int main(void)$/;"	f
+main	app1.c	/^int main(void)$/;"	f
+mem	base.c	/^  unsigned char mem[GLOBALMEM_SIZE]; $/;"	m	struct:globalmem_dev	file:
+obj-m	Makefile	/^obj-m := base.o$/;"	m
+read_buf	app.c	/^unsigned char read_buf[1];$/;"	v
+read_buf	app1.c	/^unsigned char read_buf[1];$/;"	v
+write_buf	app.c	/^unsigned char write_buf[1] = {0x55};$/;"	v
+write_buf	app1.c	/^unsigned char write_buf[1] = {0xaa};$/;"	v

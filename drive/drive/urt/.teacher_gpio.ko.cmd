@@ -1,0 +1,1 @@
+cmd_/home/lenovo/0706/gpio_irq/teacher_gpio.ko := arm-linux-ld -EL -r   --build-id -o /home/lenovo/0706/gpio_irq/teacher_gpio.ko /home/lenovo/0706/gpio_irq/teacher_gpio.o /home/lenovo/0706/gpio_irq/teacher_gpio.mod.o

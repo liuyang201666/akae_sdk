@@ -1,0 +1,12 @@
+diff --git a/scripts/build/companion_libs/cloog.sh b/scripts/build/companion_libs/cloog.sh
+--- a/scripts/build/companion_libs/cloog.sh
++++ b/scripts/build/companion_libs/cloog.sh
+@@ -30,7 +30,7 @@
+     CT_Pushd "${CT_SRC_DIR}/cloog-ppl${_t}"
+     CT_Patch nochdir "cloog-ppl" "${CT_CLOOG_VERSION}"
+     if [ "${CT_CLOOG_VERSION}" = "0.15.10" ]; then
+-        ./autogen.sh
++        CT_DoExecLog CFG ./autogen.sh
+     fi
+     CT_Popd
+ }

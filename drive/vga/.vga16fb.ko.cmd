@@ -1,0 +1,1 @@
+cmd_/home/akaedu/Board/drive/vga/vga16fb.ko := arm-linux-ld -EL -r   --build-id -o /home/akaedu/Board/drive/vga/vga16fb.ko /home/akaedu/Board/drive/vga/vga16fb.o /home/akaedu/Board/drive/vga/vga16fb.mod.o

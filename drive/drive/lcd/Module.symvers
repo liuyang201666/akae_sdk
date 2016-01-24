@@ -1,0 +1,2 @@
+0xe774441f	lcd_device_unregister	/home/akaedu/Board/drive/lcd/lcd	EXPORT_SYMBOL
+0x1be3000e	lcd_device_register	/home/akaedu/Board/drive/lcd/lcd	EXPORT_SYMBOL

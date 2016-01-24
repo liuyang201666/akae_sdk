@@ -1,0 +1,32 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BEEP	digitr.c	24;"	d	file:
+CPLD_SEG7	digitr.c	22;"	d	file:
+KERNELSRC	Makefile	/^KERNELSRC :=\/home\/akaedu\/Board\/student\/kernel\/linux-2.6.27$/;"	m
+NOKEY	app.c	6;"	d	file:
+NOKEY	digitr.c	25;"	d	file:
+NOKEY	led_write.c	6;"	d	file:
+VM_SEG7	digitr.c	23;"	d	file:
+arry	led_write.c	/^char *arry[] = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"};$/;"	v
+key	digitr.c	/^static char key = NOKEY;$/;"	v	file:
+key_irq_isr	digitr.c	/^static irqreturn_t key_irq_isr(int irq, void *dev_id)$/;"	f	file:
+key_scan	digitr.c	/^static char key_scan(void)$/;"	f	file:
+keyirq_MAJOR	digitr.c	20;"	d	file:
+keyirq_exit	digitr.c	/^module_exit(keyirq_exit);$/;"	v
+keyirq_exit	digitr.c	/^void __exit keyirq_exit(void)$/;"	f
+keyirq_fops	digitr.c	/^struct file_operations keyirq_fops = $/;"	v	typeref:struct:file_operations
+keyirq_init	digitr.c	/^int __init keyirq_init(void)$/;"	f
+keyirq_init	digitr.c	/^module_init(keyirq_init);$/;"	v
+keyirq_ioctl	digitr.c	/^int keyirq_ioctl(struct inode *inode, struct file *file,$/;"	f
+keyirq_open	digitr.c	/^int keyirq_open(struct inode *inode, struct file *filp)$/;"	f
+keyirq_read	digitr.c	/^static ssize_t keyirq_read(struct file *filp, char __user *buf, size_t count, loff_t *f_ops)$/;"	f	file:
+keyirq_release	digitr.c	/^int keyirq_release(struct inode *inode, struct file *filp)$/;"	f
+main	app.c	/^int main()$/;"	f
+main	led_write.c	/^int main()$/;"	f
+obj-m	Makefile	/^obj-m:=digitr.o$/;"	m
+sched_flag	digitr.c	/^int sched_flag = 0;$/;"	v
+sched_wq	digitr.c	/^DECLARE_WAIT_QUEUE_HEAD(sched_wq);$/;"	v

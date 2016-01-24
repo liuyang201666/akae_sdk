@@ -1,0 +1,1 @@
+cmd_/home/lenovo/2440/drive/test/driver.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.2.0-23-generic/scripts/module-common.lds --build-id  -o /home/lenovo/2440/drive/test/driver.ko /home/lenovo/2440/drive/test/driver.o /home/lenovo/2440/drive/test/driver.mod.o

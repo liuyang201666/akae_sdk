@@ -1,0 +1,24 @@
+AKAE_MAJOR	register_dev_new.c	10
+GET_A	register_dev_new.c	19
+KERNELSRC	Makefile	/^KERNELSRC :=\/home\/lenovo\/crosstool\/linux-2.6.27$/
+SET_A	register_dev_new.c	18
+__this_module	register_dev_new.mod.c	7
+__used	register_dev_new.mod.c	18
+__used	register_dev_new.mod.c	37
+a	register_dev_new.c	33
+akae_exit	register_dev_new.c	/^akae_exit(void)$/
+akae_fops	register_dev_new.c	125
+akae_init	register_dev_new.c	/^akae_init(void)$/
+akae_ioctl	register_dev_new.c	/^int akae_ioctl(struct inode *inode, struct file *f/
+akae_open	register_dev_new.c	/^int akae_open(struct inode *inode, struct file *fi/
+akae_read	register_dev_new.c	/^ssize_t akae_read(struct file *filp, char __user */
+akae_release	register_dev_new.c	/^int akae_release(struct inode *inode, struct file /
+akae_write	register_dev_new.c	/^ssize_t akae_write(struct file *filp, const char _/
+b	register_dev_new.c	34
+clean	Makefile	/^clean:$/
+dev	register_dev_new.c	28
+kinfo	register_dev_new.c	32
+modules	Makefile	/^modules:$/
+my_cdev	register_dev_new.c	25
+my_major	register_dev_new.c	21
+obj-m	Makefile	/^obj-m := register_dev_new.o$/

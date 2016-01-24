@@ -1,0 +1,1 @@
+cmd_/home/lenovo/linux-kernel/drive/register_chrdev/register_dev.ko := ld -r -m elf_i386 -T /home/lenovo/linux-kernel/linux-3.10.90/scripts/module-common.lds --build-id  -o /home/lenovo/linux-kernel/drive/register_chrdev/register_dev.ko /home/lenovo/linux-kernel/drive/register_chrdev/register_dev.o /home/lenovo/linux-kernel/drive/register_chrdev/register_dev.mod.o

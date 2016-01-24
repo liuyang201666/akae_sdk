@@ -1,0 +1,1 @@
+cmd_/home/src/mytest/exp-22/mutex/base.ko := ld -m elf_i386 -r -m elf_i386  --build-id -o /home/src/mytest/exp-22/mutex/base.ko /home/src/mytest/exp-22/mutex/base.o /home/src/mytest/exp-22/mutex/base.mod.o

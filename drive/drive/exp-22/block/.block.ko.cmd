@@ -1,0 +1,1 @@
+cmd_/home/bryan/t48/exp-22/block/block.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-40-generic/scripts/module-common.lds --build-id -o /home/bryan/t48/exp-22/block/block.ko /home/bryan/t48/exp-22/block/block.o /home/bryan/t48/exp-22/block/block.mod.o
